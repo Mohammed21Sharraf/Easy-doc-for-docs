@@ -1,0 +1,501 @@
+PatientID,VisitDate,Symptoms,Diagnosis,Prescriptions,Procedures,Tests,DoctorNotes,Language
+P001,2025-07-25,"cough, sore throat",Heart Failure,"Antibiotics, Cough syrup","Angioplasty, Wound dressing","MRI scan, Lipid profile","Symptoms severe, referred to specialist.",Bengali
+P002,2025-11-03,"rash, itching",Hypertension,"Digoxin, Albuterol","Physical therapy, Wound dressing","Lipid profile, Urine test","Symptoms severe, referred to specialist.",Bengali
+P003,2025-08-14,"rash, itching",Asthma,"Vitamin C, Cough syrup","Blood transfusion, Appendectomy","Urine test, Lipid profile",Symptoms mild. Hydration recommended.,English
+P004,2025-02-05,"chest pain, shortness of breath",Hypertension,"Digoxin, Antibiotics","Blood transfusion, Vaccination","Blood sugar test, Lipid profile",Needs follow-up consultation.,English
+P005,2025-06-07,"fatigue, dizziness",Dengue fever,"Metformin, Lisinopril","Appendectomy, Physical therapy","X-ray, Blood sugar test",Needs follow-up consultation.,Bengali
+P006,2025-11-12,"stomach pain, diarrhea",COPD,"Lisinopril, Digoxin","Angioplasty, Physical therapy","Lipid profile, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P007,2025-01-20,"fever, headache",Diabetes,"Cough syrup, ORS","Wound dressing, Angioplasty","Urine test, Blood sugar test",Prescribed bed rest for recovery.,Bengali
+P008,2025-08-27,"fever, headache",Common cold,"Lisinopril, Digoxin","Physical therapy, Wound dressing","Urine test, Lipid profile",Prescribed bed rest for recovery.,Bengali
+P009,2025-07-22,"chest pain, shortness of breath",Allergy,"Antibiotics, Prednisone","Blood transfusion, Physical therapy","X-ray, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,English
+P010,2025-09-12,"cough, sore throat",COPD,"Vitamin C, Lisinopril","Vaccination, Angioplasty","X-ray, Lipid profile",Prescribed bed rest for recovery.,Bengali
+P011,2025-03-11,"fatigue, dizziness",COPD,"Digoxin, Vitamin C","Blood transfusion, Physical therapy","MRI scan, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P012,2025-04-20,"cough, sore throat",Dengue fever,"Vitamin C, Lisinopril","Wound dressing, Appendectomy","CBC (Complete Blood Count), MRI scan",Symptoms mild. Hydration recommended.,Bengali
+P013,2025-10-08,"fatigue, dizziness",Common cold,"Antibiotics, Metformin","Vaccination, Blood transfusion","X-ray, Lipid profile",Symptoms mild. Hydration recommended.,English
+P014,2025-09-07,"chest pain, shortness of breath",COPD,"Cough syrup, Metformin","Appendectomy, Vaccination","CBC (Complete Blood Count), X-ray",Patient shows improvement but advised rest.,Bengali
+P015,2025-02-02,"cough, sore throat",Diabetes,"Paracetamol, Metformin","Blood transfusion, Physical therapy","MRI scan, Blood sugar test","Symptoms severe, referred to specialist.",Bengali
+P016,2025-06-08,"rash, itching",Hypertension,"Paracetamol, Prednisone","Vaccination, Physical therapy","Urine test, Lipid profile","Symptoms severe, referred to specialist.",Bengali
+P017,2025-02-12,"fatigue, dizziness",Allergy,"Metformin, Antibiotics","Appendectomy, Blood transfusion","X-ray, Urine test",Prescribed bed rest for recovery.,Bengali
+P018,2025-02-14,"stomach pain, diarrhea",Diabetes,"ORS, Lisinopril","Appendectomy, Blood transfusion","MRI scan, Blood sugar test","Symptoms severe, referred to specialist.",English
+P019,2025-09-02,"cough, sore throat",Hypertension,"Albuterol, Vitamin C","Appendectomy, Wound dressing","Lipid profile, Blood sugar test","Symptoms severe, referred to specialist.",English
+P020,2025-04-19,"stomach pain, diarrhea",Asthma,"Cough syrup, Paracetamol","Wound dressing, Angioplasty","CBC (Complete Blood Count), X-ray",Patient shows improvement but advised rest.,English
+P021,2025-11-15,"fatigue, dizziness",Asthma,"Vitamin C, ORS","Vaccination, Angioplasty","Urine test, MRI scan","Symptoms severe, referred to specialist.",English
+P022,2025-02-14,"fatigue, dizziness",COPD,"Digoxin, Vitamin C","Physical therapy, Wound dressing","CBC (Complete Blood Count), Urine test",Needs follow-up consultation.,Bengali
+P023,2025-04-28,"fatigue, dizziness",Asthma,"ORS, Lisinopril","Physical therapy, Blood transfusion","Lipid profile, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P024,2025-03-24,"fatigue, dizziness",Heart Failure,"Vitamin C, Cough syrup","Angioplasty, Wound dressing","Blood sugar test, Lipid profile",Prescribed bed rest for recovery.,Bengali
+P025,2025-01-22,"cough, sore throat",Hypertension,"Cough syrup, Lisinopril","Wound dressing, Blood transfusion","Blood sugar test, MRI scan",Prescribed bed rest for recovery.,Bengali
+P026,2025-10-25,"fever, headache",Food poisoning,"Antibiotics, Cough syrup","Vaccination, Blood transfusion","Lipid profile, Urine test",Prescribed bed rest for recovery.,Bengali
+P027,2025-04-14,"fatigue, dizziness",Hypertension,"Prednisone, Lisinopril","Appendectomy, Vaccination","Lipid profile, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P028,2025-11-27,"fever, headache",Hypertension,"Albuterol, Lisinopril","Physical therapy, Vaccination","Lipid profile, X-ray","Symptoms severe, referred to specialist.",Bengali
+P029,2025-05-01,"rash, itching",Diabetes,"Prednisone, Lisinopril","Appendectomy, Wound dressing","CBC (Complete Blood Count), Blood sugar test",Symptoms mild. Hydration recommended.,English
+P030,2025-01-22,"chest pain, shortness of breath",Heart Failure,"Albuterol, Paracetamol","Blood transfusion, Angioplasty","Blood sugar test, X-ray",Needs follow-up consultation.,English
+P031,2025-08-05,"rash, itching",Diabetes,"Cough syrup, Antibiotics","Appendectomy, Vaccination","CBC (Complete Blood Count), Blood sugar test",Symptoms mild. Hydration recommended.,English
+P032,2025-12-17,"fever, headache",Allergy,"Digoxin, Cough syrup","Physical therapy, Blood transfusion","MRI scan, CBC (Complete Blood Count)",Prescribed bed rest for recovery.,Bengali
+P033,2025-02-19,"rash, itching",Diabetes,"Digoxin, Paracetamol","Appendectomy, Angioplasty","CBC (Complete Blood Count), X-ray","Symptoms severe, referred to specialist.",English
+P034,2025-01-23,"rash, itching",Common cold,"Albuterol, Metformin","Appendectomy, Blood transfusion","X-ray, Blood sugar test",Needs follow-up consultation.,Bengali
+P035,2025-10-10,"stomach pain, diarrhea",Common cold,"Antibiotics, Cough syrup","Appendectomy, Angioplasty","Urine test, X-ray",Patient shows improvement but advised rest.,English
+P036,2025-09-01,"stomach pain, diarrhea",Diabetes,"Lisinopril, ORS","Angioplasty, Wound dressing","Lipid profile, Blood sugar test",Needs follow-up consultation.,English
+P037,2025-02-17,"cough, sore throat",Food poisoning,"Albuterol, ORS","Angioplasty, Blood transfusion","MRI scan, Lipid profile",Patient shows improvement but advised rest.,Bengali
+P038,2025-12-22,"fever, headache",Dengue fever,"Digoxin, Prednisone","Wound dressing, Physical therapy","Urine test, CBC (Complete Blood Count)","Symptoms severe, referred to specialist.",Bengali
+P039,2025-10-05,"fatigue, dizziness",Food poisoning,"Digoxin, Lisinopril","Wound dressing, Blood transfusion","CBC (Complete Blood Count), Blood sugar test",Prescribed bed rest for recovery.,English
+P040,2025-05-21,"cough, sore throat",Common cold,"ORS, Metformin","Appendectomy, Vaccination","MRI scan, X-ray","Symptoms severe, referred to specialist.",English
+P041,2025-12-12,"rash, itching",Food poisoning,"Antibiotics, Paracetamol","Blood transfusion, Wound dressing","CBC (Complete Blood Count), X-ray",Prescribed bed rest for recovery.,English
+P042,2025-08-02,"fatigue, dizziness",Asthma,"Antibiotics, Cough syrup","Vaccination, Appendectomy","X-ray, MRI scan",Prescribed bed rest for recovery.,English
+P043,2025-11-15,"fatigue, dizziness",COPD,"Lisinopril, Metformin","Wound dressing, Vaccination","CBC (Complete Blood Count), Blood sugar test",Needs follow-up consultation.,English
+P044,2025-06-09,"rash, itching",Asthma,"Antibiotics, Albuterol","Physical therapy, Angioplasty","CBC (Complete Blood Count), Urine test",Symptoms mild. Hydration recommended.,Bengali
+P045,2025-03-27,"fever, headache",Food poisoning,"Digoxin, Metformin","Angioplasty, Appendectomy","MRI scan, Lipid profile",Prescribed bed rest for recovery.,English
+P046,2025-09-01,"rash, itching",Food poisoning,"Albuterol, Cough syrup","Physical therapy, Vaccination","MRI scan, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,English
+P047,2025-12-06,"fever, headache",Dengue fever,"ORS, Cough syrup","Physical therapy, Appendectomy","Blood sugar test, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,English
+P048,2025-04-05,"chest pain, shortness of breath",COPD,"Lisinopril, Paracetamol","Wound dressing, Blood transfusion","X-ray, CBC (Complete Blood Count)",Needs follow-up consultation.,English
+P049,2025-05-20,"chest pain, shortness of breath",Diabetes,"Metformin, Paracetamol","Appendectomy, Blood transfusion","Lipid profile, Urine test",Prescribed bed rest for recovery.,Bengali
+P050,2025-07-08,"rash, itching",Hypertension,"Vitamin C, Cough syrup","Vaccination, Physical therapy","Lipid profile, MRI scan",Patient shows improvement but advised rest.,Bengali
+P051,2025-10-28,"fever, headache",COPD,"Metformin, ORS","Physical therapy, Blood transfusion","CBC (Complete Blood Count), MRI scan","Symptoms severe, referred to specialist.",English
+P052,2025-10-24,"chest pain, shortness of breath",Allergy,"Albuterol, Metformin","Wound dressing, Blood transfusion","Blood sugar test, X-ray","Symptoms severe, referred to specialist.",Bengali
+P053,2025-06-02,"cough, sore throat",COPD,"Digoxin, ORS","Vaccination, Physical therapy","CBC (Complete Blood Count), Blood sugar test",Prescribed bed rest for recovery.,Bengali
+P054,2025-08-07,"stomach pain, diarrhea",Asthma,"Metformin, Paracetamol","Blood transfusion, Appendectomy","MRI scan, Urine test",Patient shows improvement but advised rest.,Bengali
+P055,2025-04-23,"cough, sore throat",Hypertension,"Albuterol, Antibiotics","Appendectomy, Angioplasty","MRI scan, X-ray",Prescribed bed rest for recovery.,English
+P056,2025-07-01,"stomach pain, diarrhea",Food poisoning,"Vitamin C, Metformin","Physical therapy, Vaccination","CBC (Complete Blood Count), Lipid profile","Symptoms severe, referred to specialist.",Bengali
+P057,2025-07-01,"chest pain, shortness of breath",Hypertension,"ORS, Albuterol","Wound dressing, Appendectomy","MRI scan, Lipid profile",Prescribed bed rest for recovery.,Bengali
+P058,2025-08-08,"rash, itching",Allergy,"Cough syrup, Digoxin","Wound dressing, Angioplasty","X-ray, Lipid profile",Prescribed bed rest for recovery.,English
+P059,2025-11-23,"cough, sore throat",Asthma,"Cough syrup, Prednisone","Vaccination, Appendectomy","Blood sugar test, Lipid profile","Symptoms severe, referred to specialist.",Bengali
+P060,2025-05-11,"chest pain, shortness of breath",Asthma,"Antibiotics, Albuterol","Vaccination, Wound dressing","MRI scan, Blood sugar test",Patient shows improvement but advised rest.,Bengali
+P061,2025-08-22,"chest pain, shortness of breath",Common cold,"Albuterol, Cough syrup","Wound dressing, Angioplasty","X-ray, MRI scan",Symptoms mild. Hydration recommended.,English
+P062,2025-07-26,"fever, headache",Heart Failure,"Paracetamol, Prednisone","Angioplasty, Blood transfusion","X-ray, Blood sugar test",Needs follow-up consultation.,English
+P063,2025-05-28,"stomach pain, diarrhea",Common cold,"Prednisone, Paracetamol","Vaccination, Appendectomy","Lipid profile, Urine test",Patient shows improvement but advised rest.,English
+P064,2025-02-20,"stomach pain, diarrhea",Asthma,"Paracetamol, Prednisone","Appendectomy, Blood transfusion","Blood sugar test, Urine test",Needs follow-up consultation.,English
+P065,2025-04-21,"stomach pain, diarrhea",Allergy,"ORS, Prednisone","Vaccination, Angioplasty","CBC (Complete Blood Count), MRI scan",Needs follow-up consultation.,Bengali
+P066,2025-06-25,"stomach pain, diarrhea",Dengue fever,"ORS, Digoxin","Physical therapy, Blood transfusion","X-ray, Blood sugar test",Prescribed bed rest for recovery.,Bengali
+P067,2025-04-18,"stomach pain, diarrhea",Dengue fever,"Albuterol, Antibiotics","Appendectomy, Wound dressing","Blood sugar test, X-ray",Needs follow-up consultation.,Bengali
+P068,2025-01-25,"fever, headache",Common cold,"Prednisone, ORS","Physical therapy, Vaccination","Lipid profile, Urine test",Symptoms mild. Hydration recommended.,English
+P069,2025-02-27,"stomach pain, diarrhea",Hypertension,"Antibiotics, Prednisone","Wound dressing, Angioplasty","Lipid profile, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,English
+P070,2025-09-10,"stomach pain, diarrhea",Common cold,"Metformin, Albuterol","Blood transfusion, Appendectomy","MRI scan, Lipid profile",Prescribed bed rest for recovery.,English
+P071,2025-05-26,"cough, sore throat",Diabetes,"Cough syrup, Prednisone","Blood transfusion, Vaccination","Blood sugar test, X-ray","Symptoms severe, referred to specialist.",English
+P072,2025-05-11,"fever, headache",Common cold,"Albuterol, Cough syrup","Angioplasty, Blood transfusion","Urine test, X-ray",Needs follow-up consultation.,Bengali
+P073,2025-12-21,"rash, itching",Dengue fever,"ORS, Cough syrup","Appendectomy, Vaccination","Blood sugar test, CBC (Complete Blood Count)",Prescribed bed rest for recovery.,Bengali
+P074,2025-11-08,"rash, itching",Dengue fever,"ORS, Prednisone","Appendectomy, Physical therapy","X-ray, Lipid profile",Needs follow-up consultation.,English
+P075,2025-11-11,"stomach pain, diarrhea",Heart Failure,"ORS, Antibiotics","Appendectomy, Vaccination","Lipid profile, MRI scan",Prescribed bed rest for recovery.,Bengali
+P076,2025-05-20,"stomach pain, diarrhea",Dengue fever,"Paracetamol, Digoxin","Wound dressing, Appendectomy","Blood sugar test, MRI scan",Prescribed bed rest for recovery.,Bengali
+P077,2025-09-22,"stomach pain, diarrhea",Hypertension,"Albuterol, Prednisone","Vaccination, Blood transfusion","Lipid profile, Blood sugar test",Needs follow-up consultation.,English
+P078,2025-02-01,"stomach pain, diarrhea",Diabetes,"Digoxin, Cough syrup","Wound dressing, Physical therapy","MRI scan, Blood sugar test","Symptoms severe, referred to specialist.",Bengali
+P079,2025-09-26,"stomach pain, diarrhea",Dengue fever,"ORS, Metformin","Vaccination, Wound dressing","X-ray, Lipid profile",Symptoms mild. Hydration recommended.,Bengali
+P080,2025-04-01,"stomach pain, diarrhea",COPD,"Metformin, Digoxin","Appendectomy, Wound dressing","MRI scan, Lipid profile",Symptoms mild. Hydration recommended.,English
+P081,2025-08-09,"fever, headache",COPD,"Albuterol, ORS","Physical therapy, Appendectomy","Urine test, Lipid profile",Prescribed bed rest for recovery.,English
+P082,2025-11-07,"fever, headache",Asthma,"Metformin, Digoxin","Physical therapy, Blood transfusion","Blood sugar test, Lipid profile",Patient shows improvement but advised rest.,English
+P083,2025-07-09,"chest pain, shortness of breath",Allergy,"Cough syrup, Digoxin","Blood transfusion, Vaccination","MRI scan, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,English
+P084,2025-01-18,"fatigue, dizziness",Food poisoning,"Prednisone, Cough syrup","Vaccination, Physical therapy","Urine test, Blood sugar test","Symptoms severe, referred to specialist.",English
+P085,2025-10-18,"cough, sore throat",COPD,"Paracetamol, Prednisone","Wound dressing, Angioplasty","Urine test, Blood sugar test",Needs follow-up consultation.,Bengali
+P086,2025-12-22,"fever, headache",Dengue fever,"Digoxin, Metformin","Physical therapy, Appendectomy","MRI scan, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,Bengali
+P087,2025-04-17,"cough, sore throat",Allergy,"Lisinopril, Digoxin","Vaccination, Blood transfusion","MRI scan, X-ray",Patient shows improvement but advised rest.,English
+P088,2025-11-01,"cough, sore throat",Diabetes,"ORS, Paracetamol","Appendectomy, Angioplasty","X-ray, Lipid profile",Prescribed bed rest for recovery.,English
+P089,2025-08-12,"fever, headache",Allergy,"Albuterol, Lisinopril","Wound dressing, Appendectomy","MRI scan, Urine test",Symptoms mild. Hydration recommended.,Bengali
+P090,2025-06-10,"stomach pain, diarrhea",Heart Failure,"Digoxin, Antibiotics","Appendectomy, Vaccination","Lipid profile, MRI scan",Patient shows improvement but advised rest.,Bengali
+P091,2025-08-19,"fatigue, dizziness",COPD,"Prednisone, Digoxin","Angioplasty, Blood transfusion","MRI scan, CBC (Complete Blood Count)",Prescribed bed rest for recovery.,English
+P092,2025-11-08,"rash, itching",Common cold,"Cough syrup, Metformin","Angioplasty, Wound dressing","Blood sugar test, Lipid profile","Symptoms severe, referred to specialist.",English
+P093,2025-06-06,"stomach pain, diarrhea",Heart Failure,"Paracetamol, Antibiotics","Angioplasty, Vaccination","X-ray, Lipid profile",Needs follow-up consultation.,English
+P094,2025-10-19,"fever, headache",Heart Failure,"ORS, Prednisone","Appendectomy, Physical therapy","MRI scan, Urine test","Symptoms severe, referred to specialist.",Bengali
+P095,2025-11-11,"rash, itching",Asthma,"ORS, Lisinopril","Angioplasty, Vaccination","Urine test, Blood sugar test",Needs follow-up consultation.,Bengali
+P096,2025-01-20,"chest pain, shortness of breath",Diabetes,"Lisinopril, Cough syrup","Blood transfusion, Physical therapy","Urine test, MRI scan",Symptoms mild. Hydration recommended.,Bengali
+P097,2025-01-02,"rash, itching",Asthma,"Albuterol, ORS","Angioplasty, Vaccination","MRI scan, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P098,2025-12-15,"fever, headache",Diabetes,"Vitamin C, Antibiotics","Blood transfusion, Vaccination","X-ray, MRI scan",Needs follow-up consultation.,Bengali
+P099,2025-05-09,"chest pain, shortness of breath",Hypertension,"Antibiotics, ORS","Angioplasty, Vaccination","Blood sugar test, MRI scan","Symptoms severe, referred to specialist.",English
+P100,2025-12-20,"fatigue, dizziness",Dengue fever,"Prednisone, Metformin","Angioplasty, Wound dressing","Urine test, Blood sugar test",Symptoms mild. Hydration recommended.,English
+P101,2025-07-21,"chest pain, shortness of breath",Diabetes,"Lisinopril, Vitamin C","Blood transfusion, Vaccination","X-ray, Lipid profile",Symptoms mild. Hydration recommended.,English
+P102,2025-03-21,"fatigue, dizziness",Heart Failure,"ORS, Cough syrup","Appendectomy, Vaccination","Urine test, Blood sugar test",Prescribed bed rest for recovery.,English
+P103,2025-11-11,"rash, itching",Diabetes,"Antibiotics, ORS","Appendectomy, Physical therapy","Urine test, Blood sugar test",Needs follow-up consultation.,English
+P104,2025-02-09,"rash, itching",Asthma,"Prednisone, ORS","Physical therapy, Blood transfusion","X-ray, Urine test",Needs follow-up consultation.,Bengali
+P105,2025-07-07,"fatigue, dizziness",Food poisoning,"Prednisone, ORS","Angioplasty, Wound dressing","Urine test, Blood sugar test",Patient shows improvement but advised rest.,English
+P106,2025-10-11,"cough, sore throat",Heart Failure,"Metformin, Digoxin","Appendectomy, Vaccination","X-ray, MRI scan",Prescribed bed rest for recovery.,English
+P107,2025-05-15,"rash, itching",COPD,"Digoxin, ORS","Appendectomy, Angioplasty","Blood sugar test, Urine test","Symptoms severe, referred to specialist.",English
+P108,2025-03-08,"chest pain, shortness of breath",Diabetes,"Metformin, Paracetamol","Appendectomy, Wound dressing","CBC (Complete Blood Count), Lipid profile","Symptoms severe, referred to specialist.",Bengali
+P109,2025-05-06,"fever, headache",Allergy,"Cough syrup, Metformin","Vaccination, Angioplasty","Urine test, MRI scan",Needs follow-up consultation.,English
+P110,2025-09-07,"fever, headache",Diabetes,"Prednisone, Antibiotics","Wound dressing, Physical therapy","Blood sugar test, X-ray","Symptoms severe, referred to specialist.",Bengali
+P111,2025-02-09,"rash, itching",Diabetes,"Lisinopril, Antibiotics","Physical therapy, Blood transfusion","Blood sugar test, MRI scan",Needs follow-up consultation.,Bengali
+P112,2025-09-24,"fever, headache",Asthma,"Prednisone, ORS","Wound dressing, Physical therapy","MRI scan, Blood sugar test",Needs follow-up consultation.,Bengali
+P113,2025-10-08,"fatigue, dizziness",Asthma,"Prednisone, Lisinopril","Vaccination, Physical therapy","Urine test, X-ray","Symptoms severe, referred to specialist.",English
+P114,2025-08-22,"stomach pain, diarrhea",Common cold,"Lisinopril, Metformin","Blood transfusion, Angioplasty","Urine test, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P115,2025-04-28,"fatigue, dizziness",Diabetes,"Vitamin C, Digoxin","Appendectomy, Wound dressing","X-ray, Blood sugar test",Patient shows improvement but advised rest.,Bengali
+P116,2025-05-21,"fatigue, dizziness",Allergy,"ORS, Cough syrup","Vaccination, Wound dressing","CBC (Complete Blood Count), Lipid profile",Prescribed bed rest for recovery.,Bengali
+P117,2025-12-01,"chest pain, shortness of breath",Asthma,"Prednisone, Vitamin C","Angioplasty, Vaccination","Blood sugar test, X-ray","Symptoms severe, referred to specialist.",English
+P118,2025-01-24,"fever, headache",COPD,"ORS, Paracetamol","Physical therapy, Angioplasty","Urine test, Blood sugar test",Patient shows improvement but advised rest.,Bengali
+P119,2025-01-08,"stomach pain, diarrhea",Allergy,"Prednisone, Antibiotics","Blood transfusion, Vaccination","Blood sugar test, CBC (Complete Blood Count)",Prescribed bed rest for recovery.,English
+P120,2025-12-27,"cough, sore throat",Hypertension,"Prednisone, Digoxin","Wound dressing, Blood transfusion","CBC (Complete Blood Count), MRI scan",Needs follow-up consultation.,Bengali
+P121,2025-06-16,"chest pain, shortness of breath",Heart Failure,"Paracetamol, Vitamin C","Physical therapy, Appendectomy","CBC (Complete Blood Count), MRI scan","Symptoms severe, referred to specialist.",English
+P122,2025-03-26,"rash, itching",Asthma,"Metformin, Paracetamol","Vaccination, Blood transfusion","CBC (Complete Blood Count), MRI scan",Symptoms mild. Hydration recommended.,Bengali
+P123,2025-03-19,"fever, headache",Hypertension,"Lisinopril, Vitamin C","Vaccination, Appendectomy","X-ray, MRI scan",Patient shows improvement but advised rest.,English
+P124,2025-05-18,"fatigue, dizziness",Food poisoning,"Antibiotics, Vitamin C","Physical therapy, Appendectomy","Urine test, MRI scan",Prescribed bed rest for recovery.,Bengali
+P125,2025-09-07,"chest pain, shortness of breath",Common cold,"Metformin, Prednisone","Wound dressing, Blood transfusion","Blood sugar test, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,Bengali
+P126,2025-07-19,"cough, sore throat",Heart Failure,"Lisinopril, ORS","Physical therapy, Angioplasty","MRI scan, Lipid profile",Prescribed bed rest for recovery.,English
+P127,2025-11-09,"cough, sore throat",Hypertension,"Metformin, Vitamin C","Blood transfusion, Wound dressing","MRI scan, Blood sugar test",Patient shows improvement but advised rest.,Bengali
+P128,2025-08-18,"cough, sore throat",COPD,"Antibiotics, Lisinopril","Wound dressing, Angioplasty","Lipid profile, Blood sugar test",Patient shows improvement but advised rest.,Bengali
+P129,2025-02-07,"chest pain, shortness of breath",Heart Failure,"Prednisone, Metformin","Angioplasty, Appendectomy","Urine test, X-ray",Patient shows improvement but advised rest.,Bengali
+P130,2025-12-02,"stomach pain, diarrhea",Hypertension,"ORS, Digoxin","Angioplasty, Blood transfusion","X-ray, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P131,2025-06-13,"stomach pain, diarrhea",Heart Failure,"Albuterol, Paracetamol","Appendectomy, Wound dressing","X-ray, Urine test",Needs follow-up consultation.,Bengali
+P132,2025-06-24,"rash, itching",Hypertension,"Metformin, Cough syrup","Appendectomy, Angioplasty","Blood sugar test, Urine test",Symptoms mild. Hydration recommended.,English
+P133,2025-08-18,"stomach pain, diarrhea",Heart Failure,"Digoxin, Metformin","Wound dressing, Physical therapy","Urine test, MRI scan",Symptoms mild. Hydration recommended.,English
+P134,2025-06-16,"chest pain, shortness of breath",Common cold,"Antibiotics, Metformin","Angioplasty, Physical therapy","MRI scan, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P135,2025-12-12,"stomach pain, diarrhea",Allergy,"Albuterol, Paracetamol","Appendectomy, Blood transfusion","X-ray, Blood sugar test",Patient shows improvement but advised rest.,Bengali
+P136,2025-11-07,"stomach pain, diarrhea",Diabetes,"Paracetamol, Vitamin C","Vaccination, Wound dressing","CBC (Complete Blood Count), Urine test",Patient shows improvement but advised rest.,English
+P137,2025-12-16,"chest pain, shortness of breath",Food poisoning,"Cough syrup, Lisinopril","Blood transfusion, Appendectomy","CBC (Complete Blood Count), Urine test",Patient shows improvement but advised rest.,English
+P138,2025-02-10,"rash, itching",COPD,"Albuterol, Lisinopril","Wound dressing, Angioplasty","Urine test, X-ray",Patient shows improvement but advised rest.,English
+P139,2025-06-15,"chest pain, shortness of breath",Heart Failure,"Metformin, Cough syrup","Wound dressing, Vaccination","Lipid profile, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P140,2025-06-25,"stomach pain, diarrhea",Hypertension,"Prednisone, Vitamin C","Wound dressing, Physical therapy","X-ray, Lipid profile",Symptoms mild. Hydration recommended.,Bengali
+P141,2025-06-11,"stomach pain, diarrhea",Diabetes,"Prednisone, Metformin","Angioplasty, Blood transfusion","Lipid profile, Blood sugar test",Prescribed bed rest for recovery.,English
+P142,2025-01-25,"cough, sore throat",Hypertension,"ORS, Paracetamol","Appendectomy, Physical therapy","CBC (Complete Blood Count), Urine test",Needs follow-up consultation.,Bengali
+P143,2025-03-21,"chest pain, shortness of breath",Diabetes,"Vitamin C, Lisinopril","Physical therapy, Blood transfusion","X-ray, Lipid profile","Symptoms severe, referred to specialist.",English
+P144,2025-08-25,"fever, headache",Food poisoning,"Cough syrup, Albuterol","Appendectomy, Angioplasty","X-ray, Blood sugar test",Symptoms mild. Hydration recommended.,English
+P145,2025-09-19,"fever, headache",Food poisoning,"Prednisone, Lisinopril","Blood transfusion, Angioplasty","CBC (Complete Blood Count), Blood sugar test",Prescribed bed rest for recovery.,Bengali
+P146,2025-09-09,"fever, headache",Diabetes,"Digoxin, Metformin","Appendectomy, Blood transfusion","X-ray, MRI scan",Prescribed bed rest for recovery.,English
+P147,2025-01-26,"fatigue, dizziness",Allergy,"Paracetamol, Albuterol","Appendectomy, Physical therapy","MRI scan, Blood sugar test",Patient shows improvement but advised rest.,English
+P148,2025-04-16,"chest pain, shortness of breath",Food poisoning,"Cough syrup, Lisinopril","Blood transfusion, Physical therapy","X-ray, Blood sugar test",Symptoms mild. Hydration recommended.,Bengali
+P149,2025-09-23,"stomach pain, diarrhea",Common cold,"Digoxin, Vitamin C","Angioplasty, Blood transfusion","Urine test, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P150,2025-11-05,"rash, itching",Hypertension,"Prednisone, Cough syrup","Angioplasty, Vaccination","Blood sugar test, MRI scan",Prescribed bed rest for recovery.,Bengali
+P151,2025-05-12,"stomach pain, diarrhea",Food poisoning,"Albuterol, Cough syrup","Physical therapy, Vaccination","MRI scan, Urine test",Needs follow-up consultation.,English
+P152,2025-04-23,"stomach pain, diarrhea",Allergy,"Prednisone, Vitamin C","Wound dressing, Blood transfusion","CBC (Complete Blood Count), X-ray",Patient shows improvement but advised rest.,English
+P153,2025-11-17,"stomach pain, diarrhea",Dengue fever,"Cough syrup, Paracetamol","Vaccination, Blood transfusion","Lipid profile, Urine test",Patient shows improvement but advised rest.,Bengali
+P154,2025-08-06,"chest pain, shortness of breath",Common cold,"Lisinopril, Cough syrup","Angioplasty, Blood transfusion","CBC (Complete Blood Count), Urine test",Symptoms mild. Hydration recommended.,Bengali
+P155,2025-05-01,"stomach pain, diarrhea",Heart Failure,"Antibiotics, Albuterol","Angioplasty, Physical therapy","X-ray, Urine test",Patient shows improvement but advised rest.,English
+P156,2025-06-25,"fever, headache",Hypertension,"Metformin, Cough syrup","Angioplasty, Vaccination","MRI scan, Blood sugar test","Symptoms severe, referred to specialist.",Bengali
+P157,2025-02-05,"rash, itching",Food poisoning,"Digoxin, Metformin","Physical therapy, Angioplasty","Lipid profile, X-ray","Symptoms severe, referred to specialist.",English
+P158,2025-05-10,"fatigue, dizziness",Hypertension,"Digoxin, ORS","Appendectomy, Wound dressing","CBC (Complete Blood Count), Lipid profile","Symptoms severe, referred to specialist.",English
+P159,2025-03-18,"fever, headache",Dengue fever,"Paracetamol, Vitamin C","Physical therapy, Appendectomy","X-ray, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P160,2025-06-02,"rash, itching",Common cold,"Antibiotics, Prednisone","Blood transfusion, Physical therapy","CBC (Complete Blood Count), MRI scan",Symptoms mild. Hydration recommended.,English
+P161,2025-10-28,"cough, sore throat",Diabetes,"Metformin, Antibiotics","Blood transfusion, Wound dressing","Blood sugar test, Lipid profile",Needs follow-up consultation.,Bengali
+P162,2025-05-09,"stomach pain, diarrhea",Common cold,"Cough syrup, Albuterol","Physical therapy, Appendectomy","Urine test, Blood sugar test","Symptoms severe, referred to specialist.",English
+P163,2025-10-17,"cough, sore throat",Diabetes,"Cough syrup, Antibiotics","Angioplasty, Blood transfusion","Blood sugar test, Urine test",Patient shows improvement but advised rest.,Bengali
+P164,2025-05-08,"fever, headache",Diabetes,"ORS, Prednisone","Appendectomy, Wound dressing","Blood sugar test, X-ray",Patient shows improvement but advised rest.,Bengali
+P165,2025-12-13,"rash, itching",COPD,"Cough syrup, Prednisone","Physical therapy, Blood transfusion","Blood sugar test, Urine test",Needs follow-up consultation.,Bengali
+P166,2025-08-17,"stomach pain, diarrhea",Hypertension,"Albuterol, Prednisone","Blood transfusion, Vaccination","Urine test, Blood sugar test",Symptoms mild. Hydration recommended.,Bengali
+P167,2025-02-08,"chest pain, shortness of breath",Hypertension,"ORS, Metformin","Blood transfusion, Vaccination","CBC (Complete Blood Count), Blood sugar test",Needs follow-up consultation.,English
+P168,2025-07-08,"chest pain, shortness of breath",Asthma,"Prednisone, ORS","Appendectomy, Vaccination","Lipid profile, X-ray","Symptoms severe, referred to specialist.",Bengali
+P169,2025-04-05,"fever, headache",Allergy,"Metformin, Lisinopril","Angioplasty, Vaccination","CBC (Complete Blood Count), Blood sugar test",Needs follow-up consultation.,English
+P170,2025-06-12,"chest pain, shortness of breath",Allergy,"Antibiotics, Digoxin","Physical therapy, Blood transfusion","CBC (Complete Blood Count), X-ray",Needs follow-up consultation.,Bengali
+P171,2025-11-11,"cough, sore throat",Dengue fever,"Digoxin, Albuterol","Vaccination, Physical therapy","Blood sugar test, Lipid profile",Needs follow-up consultation.,Bengali
+P172,2025-09-22,"chest pain, shortness of breath",Heart Failure,"Albuterol, Cough syrup","Appendectomy, Physical therapy","MRI scan, X-ray",Prescribed bed rest for recovery.,English
+P173,2025-05-24,"stomach pain, diarrhea",Dengue fever,"Prednisone, Paracetamol","Blood transfusion, Angioplasty","MRI scan, Urine test",Symptoms mild. Hydration recommended.,English
+P174,2025-09-02,"cough, sore throat",Diabetes,"Prednisone, Digoxin","Appendectomy, Vaccination","Urine test, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,English
+P175,2025-02-04,"cough, sore throat",Heart Failure,"Cough syrup, ORS","Angioplasty, Blood transfusion","CBC (Complete Blood Count), MRI scan","Symptoms severe, referred to specialist.",Bengali
+P176,2025-03-24,"chest pain, shortness of breath",Heart Failure,"Cough syrup, Lisinopril","Appendectomy, Angioplasty","Lipid profile, Blood sugar test",Needs follow-up consultation.,English
+P177,2025-12-27,"cough, sore throat",COPD,"Paracetamol, Cough syrup","Physical therapy, Blood transfusion","X-ray, Lipid profile",Prescribed bed rest for recovery.,English
+P178,2025-12-25,"fatigue, dizziness",Food poisoning,"Lisinopril, ORS","Blood transfusion, Wound dressing","Urine test, Blood sugar test",Needs follow-up consultation.,English
+P179,2025-09-06,"stomach pain, diarrhea",Food poisoning,"Vitamin C, Metformin","Blood transfusion, Angioplasty","Urine test, X-ray",Patient shows improvement but advised rest.,English
+P180,2025-03-09,"chest pain, shortness of breath",Dengue fever,"ORS, Prednisone","Blood transfusion, Physical therapy","Lipid profile, MRI scan",Prescribed bed rest for recovery.,English
+P181,2025-06-21,"cough, sore throat",Heart Failure,"Cough syrup, Lisinopril","Appendectomy, Vaccination","MRI scan, Urine test",Prescribed bed rest for recovery.,English
+P182,2025-12-19,"stomach pain, diarrhea",Hypertension,"Paracetamol, Albuterol","Angioplasty, Appendectomy","MRI scan, Lipid profile","Symptoms severe, referred to specialist.",Bengali
+P183,2025-09-21,"rash, itching",Asthma,"Paracetamol, Metformin","Vaccination, Wound dressing","MRI scan, Lipid profile",Needs follow-up consultation.,Bengali
+P184,2025-10-10,"chest pain, shortness of breath",Food poisoning,"Metformin, Antibiotics","Appendectomy, Physical therapy","MRI scan, CBC (Complete Blood Count)","Symptoms severe, referred to specialist.",Bengali
+P185,2025-11-19,"rash, itching",Dengue fever,"ORS, Metformin","Wound dressing, Angioplasty","Lipid profile, CBC (Complete Blood Count)",Prescribed bed rest for recovery.,Bengali
+P186,2025-03-16,"cough, sore throat",Common cold,"Vitamin C, Albuterol","Angioplasty, Appendectomy","Lipid profile, X-ray",Needs follow-up consultation.,Bengali
+P187,2025-08-25,"chest pain, shortness of breath",Hypertension,"Vitamin C, Albuterol","Physical therapy, Appendectomy","Blood sugar test, X-ray",Patient shows improvement but advised rest.,Bengali
+P188,2025-09-21,"fatigue, dizziness",Heart Failure,"Digoxin, Lisinopril","Wound dressing, Blood transfusion","Lipid profile, Blood sugar test",Symptoms mild. Hydration recommended.,English
+P189,2025-09-22,"rash, itching",COPD,"Albuterol, Paracetamol","Appendectomy, Vaccination","Blood sugar test, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,English
+P190,2025-07-08,"cough, sore throat",Heart Failure,"Metformin, Prednisone","Vaccination, Wound dressing","Lipid profile, CBC (Complete Blood Count)","Symptoms severe, referred to specialist.",English
+P191,2025-05-18,"fever, headache",COPD,"Vitamin C, Lisinopril","Vaccination, Physical therapy","MRI scan, Lipid profile",Prescribed bed rest for recovery.,English
+P192,2025-01-01,"fever, headache",Heart Failure,"Paracetamol, Antibiotics","Physical therapy, Appendectomy","Lipid profile, Urine test",Needs follow-up consultation.,English
+P193,2025-12-21,"rash, itching",Hypertension,"Metformin, Paracetamol","Vaccination, Angioplasty","Blood sugar test, CBC (Complete Blood Count)",Prescribed bed rest for recovery.,Bengali
+P194,2025-07-22,"cough, sore throat",Diabetes,"ORS, Lisinopril","Appendectomy, Wound dressing","MRI scan, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,English
+P195,2025-06-17,"chest pain, shortness of breath",Dengue fever,"Lisinopril, Albuterol","Wound dressing, Physical therapy","MRI scan, Blood sugar test",Needs follow-up consultation.,Bengali
+P196,2025-03-18,"cough, sore throat",Diabetes,"Cough syrup, Digoxin","Wound dressing, Vaccination","Lipid profile, Blood sugar test",Prescribed bed rest for recovery.,English
+P197,2025-08-24,"stomach pain, diarrhea",Dengue fever,"ORS, Antibiotics","Vaccination, Angioplasty","X-ray, CBC (Complete Blood Count)","Symptoms severe, referred to specialist.",Bengali
+P198,2025-08-09,"cough, sore throat",Food poisoning,"Antibiotics, Albuterol","Wound dressing, Appendectomy","CBC (Complete Blood Count), Urine test",Symptoms mild. Hydration recommended.,Bengali
+P199,2025-01-24,"fatigue, dizziness",Hypertension,"Vitamin C, ORS","Physical therapy, Angioplasty","CBC (Complete Blood Count), MRI scan","Symptoms severe, referred to specialist.",English
+P200,2025-11-15,"chest pain, shortness of breath",COPD,"Vitamin C, Digoxin","Physical therapy, Blood transfusion","Blood sugar test, Lipid profile",Patient shows improvement but advised rest.,Bengali
+P201,2025-01-09,"fatigue, dizziness",Hypertension,"Lisinopril, Digoxin","Blood transfusion, Angioplasty","Lipid profile, Urine test",Prescribed bed rest for recovery.,English
+P202,2025-04-23,"chest pain, shortness of breath",Heart Failure,"Albuterol, Paracetamol","Vaccination, Wound dressing","MRI scan, CBC (Complete Blood Count)",Needs follow-up consultation.,English
+P203,2025-12-15,"rash, itching",Dengue fever,"Paracetamol, Antibiotics","Blood transfusion, Appendectomy","X-ray, Blood sugar test",Symptoms mild. Hydration recommended.,English
+P204,2025-04-02,"stomach pain, diarrhea",COPD,"Metformin, Antibiotics","Blood transfusion, Appendectomy","X-ray, CBC (Complete Blood Count)",Needs follow-up consultation.,Bengali
+P205,2025-03-07,"cough, sore throat",Asthma,"Lisinopril, ORS","Appendectomy, Blood transfusion","CBC (Complete Blood Count), Urine test",Patient shows improvement but advised rest.,Bengali
+P206,2025-10-21,"fatigue, dizziness",COPD,"Metformin, Albuterol","Vaccination, Blood transfusion","CBC (Complete Blood Count), X-ray","Symptoms severe, referred to specialist.",English
+P207,2025-11-24,"chest pain, shortness of breath",Dengue fever,"Antibiotics, Metformin","Angioplasty, Wound dressing","CBC (Complete Blood Count), Blood sugar test","Symptoms severe, referred to specialist.",English
+P208,2025-11-15,"fever, headache",COPD,"Prednisone, Lisinopril","Wound dressing, Angioplasty","Lipid profile, MRI scan",Prescribed bed rest for recovery.,English
+P209,2025-12-12,"fever, headache",Heart Failure,"Digoxin, Lisinopril","Wound dressing, Physical therapy","Urine test, CBC (Complete Blood Count)",Prescribed bed rest for recovery.,English
+P210,2025-03-24,"rash, itching",COPD,"Paracetamol, Digoxin","Wound dressing, Vaccination","CBC (Complete Blood Count), MRI scan",Needs follow-up consultation.,Bengali
+P211,2025-02-05,"rash, itching",Allergy,"Antibiotics, ORS","Blood transfusion, Wound dressing","Lipid profile, Urine test",Needs follow-up consultation.,Bengali
+P212,2025-12-17,"fatigue, dizziness",Allergy,"Prednisone, Cough syrup","Physical therapy, Angioplasty","X-ray, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,Bengali
+P213,2025-09-09,"cough, sore throat",Food poisoning,"Metformin, ORS","Angioplasty, Appendectomy","Urine test, MRI scan","Symptoms severe, referred to specialist.",English
+P214,2025-06-26,"stomach pain, diarrhea",Allergy,"Metformin, Vitamin C","Angioplasty, Appendectomy","Blood sugar test, Urine test",Needs follow-up consultation.,English
+P215,2025-07-27,"fatigue, dizziness",Asthma,"Metformin, Antibiotics","Vaccination, Appendectomy","X-ray, Blood sugar test",Needs follow-up consultation.,English
+P216,2025-04-18,"chest pain, shortness of breath",Asthma,"Albuterol, Vitamin C","Vaccination, Physical therapy","X-ray, Blood sugar test",Needs follow-up consultation.,English
+P217,2025-05-11,"rash, itching",Hypertension,"Albuterol, Digoxin","Appendectomy, Physical therapy","Urine test, Lipid profile","Symptoms severe, referred to specialist.",Bengali
+P218,2025-10-21,"cough, sore throat",Asthma,"Lisinopril, Antibiotics","Appendectomy, Vaccination","CBC (Complete Blood Count), Blood sugar test",Prescribed bed rest for recovery.,English
+P219,2025-03-03,"cough, sore throat",Common cold,"Albuterol, Prednisone","Vaccination, Physical therapy","Urine test, MRI scan",Needs follow-up consultation.,English
+P220,2025-02-18,"stomach pain, diarrhea",Heart Failure,"Lisinopril, Digoxin","Vaccination, Angioplasty","MRI scan, Lipid profile",Needs follow-up consultation.,Bengali
+P221,2025-12-23,"cough, sore throat",Heart Failure,"Paracetamol, Vitamin C","Appendectomy, Blood transfusion","Lipid profile, Blood sugar test",Patient shows improvement but advised rest.,English
+P222,2025-08-22,"rash, itching",Heart Failure,"Lisinopril, Cough syrup","Angioplasty, Vaccination","Urine test, MRI scan",Needs follow-up consultation.,English
+P223,2025-01-04,"fever, headache",Allergy,"Metformin, Prednisone","Wound dressing, Appendectomy","Lipid profile, MRI scan",Patient shows improvement but advised rest.,English
+P224,2025-04-24,"rash, itching",COPD,"Lisinopril, Paracetamol","Angioplasty, Physical therapy","X-ray, Blood sugar test",Patient shows improvement but advised rest.,Bengali
+P225,2025-07-24,"fever, headache",Diabetes,"Antibiotics, Cough syrup","Physical therapy, Vaccination","Lipid profile, Urine test",Prescribed bed rest for recovery.,Bengali
+P226,2025-10-28,"cough, sore throat",Asthma,"Vitamin C, Paracetamol","Blood transfusion, Physical therapy","Lipid profile, Urine test",Patient shows improvement but advised rest.,Bengali
+P227,2025-08-09,"rash, itching",Allergy,"Paracetamol, Albuterol","Angioplasty, Physical therapy","Blood sugar test, Lipid profile",Patient shows improvement but advised rest.,English
+P228,2025-04-27,"fatigue, dizziness",Hypertension,"Lisinopril, Cough syrup","Wound dressing, Vaccination","Urine test, MRI scan",Symptoms mild. Hydration recommended.,English
+P229,2025-02-12,"rash, itching",Hypertension,"Metformin, Cough syrup","Blood transfusion, Vaccination","MRI scan, CBC (Complete Blood Count)",Prescribed bed rest for recovery.,English
+P230,2025-10-05,"rash, itching",Allergy,"Lisinopril, Paracetamol","Appendectomy, Angioplasty","MRI scan, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P231,2025-12-13,"stomach pain, diarrhea",Heart Failure,"Cough syrup, Digoxin","Angioplasty, Blood transfusion","CBC (Complete Blood Count), MRI scan",Patient shows improvement but advised rest.,English
+P232,2025-12-15,"rash, itching",Common cold,"Vitamin C, Prednisone","Vaccination, Wound dressing","Urine test, X-ray",Needs follow-up consultation.,English
+P233,2025-05-15,"chest pain, shortness of breath",Common cold,"Vitamin C, Albuterol","Wound dressing, Blood transfusion","CBC (Complete Blood Count), Lipid profile","Symptoms severe, referred to specialist.",Bengali
+P234,2025-09-03,"stomach pain, diarrhea",Heart Failure,"Metformin, Paracetamol","Appendectomy, Vaccination","MRI scan, X-ray",Symptoms mild. Hydration recommended.,Bengali
+P235,2025-06-02,"fatigue, dizziness",Diabetes,"Digoxin, Prednisone","Angioplasty, Vaccination","Lipid profile, Blood sugar test",Needs follow-up consultation.,Bengali
+P236,2025-10-01,"fever, headache",Common cold,"Antibiotics, Lisinopril","Physical therapy, Wound dressing","Blood sugar test, Urine test",Symptoms mild. Hydration recommended.,Bengali
+P237,2025-06-19,"fatigue, dizziness",Asthma,"Cough syrup, Prednisone","Wound dressing, Physical therapy","X-ray, Lipid profile",Symptoms mild. Hydration recommended.,English
+P238,2025-09-22,"chest pain, shortness of breath",Food poisoning,"ORS, Albuterol","Vaccination, Appendectomy","MRI scan, CBC (Complete Blood Count)",Prescribed bed rest for recovery.,English
+P239,2025-07-17,"stomach pain, diarrhea",Food poisoning,"Digoxin, Cough syrup","Vaccination, Wound dressing","Lipid profile, Urine test",Needs follow-up consultation.,Bengali
+P240,2025-11-10,"cough, sore throat",Hypertension,"Metformin, Cough syrup","Appendectomy, Physical therapy","Blood sugar test, X-ray","Symptoms severe, referred to specialist.",Bengali
+P241,2025-10-28,"fever, headache",Common cold,"Paracetamol, Prednisone","Appendectomy, Angioplasty","X-ray, MRI scan",Symptoms mild. Hydration recommended.,English
+P242,2025-02-15,"fever, headache",Heart Failure,"Metformin, Paracetamol","Wound dressing, Physical therapy","X-ray, Blood sugar test",Prescribed bed rest for recovery.,Bengali
+P243,2025-10-17,"cough, sore throat",Common cold,"Prednisone, ORS","Blood transfusion, Vaccination","Blood sugar test, X-ray","Symptoms severe, referred to specialist.",English
+P244,2025-06-17,"fever, headache",COPD,"Albuterol, Vitamin C","Blood transfusion, Angioplasty","MRI scan, X-ray",Symptoms mild. Hydration recommended.,English
+P245,2025-03-03,"fever, headache",Dengue fever,"Lisinopril, Digoxin","Blood transfusion, Vaccination","X-ray, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P246,2025-09-04,"cough, sore throat",COPD,"Albuterol, Paracetamol","Appendectomy, Wound dressing","MRI scan, Urine test",Symptoms mild. Hydration recommended.,Bengali
+P247,2025-06-27,"stomach pain, diarrhea",Common cold,"Metformin, ORS","Appendectomy, Physical therapy","MRI scan, Urine test",Patient shows improvement but advised rest.,English
+P248,2025-04-15,"rash, itching",Asthma,"Vitamin C, Metformin","Angioplasty, Physical therapy","Blood sugar test, X-ray",Symptoms mild. Hydration recommended.,English
+P249,2025-07-23,"rash, itching",Asthma,"Metformin, Digoxin","Angioplasty, Vaccination","MRI scan, Blood sugar test",Needs follow-up consultation.,Bengali
+P250,2025-06-27,"fever, headache",Asthma,"Paracetamol, Digoxin","Blood transfusion, Appendectomy","CBC (Complete Blood Count), X-ray","Symptoms severe, referred to specialist.",English
+P251,2025-09-03,"rash, itching",Diabetes,"Albuterol, Vitamin C","Blood transfusion, Vaccination","Blood sugar test, Urine test",Prescribed bed rest for recovery.,English
+P252,2025-04-21,"fatigue, dizziness",Heart Failure,"Cough syrup, Prednisone","Appendectomy, Angioplasty","MRI scan, Blood sugar test","Symptoms severe, referred to specialist.",Bengali
+P253,2025-02-21,"chest pain, shortness of breath",Heart Failure,"ORS, Albuterol","Wound dressing, Angioplasty","MRI scan, Blood sugar test",Needs follow-up consultation.,English
+P254,2025-08-15,"fatigue, dizziness",Hypertension,"Vitamin C, Metformin","Vaccination, Blood transfusion","X-ray, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P255,2025-09-05,"fatigue, dizziness",Common cold,"Vitamin C, Prednisone","Vaccination, Angioplasty","Blood sugar test, X-ray",Patient shows improvement but advised rest.,Bengali
+P256,2025-09-27,"cough, sore throat",COPD,"Prednisone, Albuterol","Wound dressing, Appendectomy","MRI scan, CBC (Complete Blood Count)",Needs follow-up consultation.,Bengali
+P257,2025-05-14,"chest pain, shortness of breath",Hypertension,"Antibiotics, Metformin","Blood transfusion, Wound dressing","CBC (Complete Blood Count), Urine test",Needs follow-up consultation.,English
+P258,2025-08-13,"cough, sore throat",Common cold,"ORS, Cough syrup","Blood transfusion, Angioplasty","Urine test, Blood sugar test",Prescribed bed rest for recovery.,Bengali
+P259,2025-06-07,"rash, itching",Diabetes,"Vitamin C, Albuterol","Angioplasty, Appendectomy","X-ray, MRI scan",Patient shows improvement but advised rest.,English
+P260,2025-07-07,"stomach pain, diarrhea",Heart Failure,"Paracetamol, Albuterol","Physical therapy, Vaccination","MRI scan, X-ray",Patient shows improvement but advised rest.,English
+P261,2025-09-26,"chest pain, shortness of breath",COPD,"Metformin, Vitamin C","Physical therapy, Angioplasty","MRI scan, X-ray",Needs follow-up consultation.,English
+P262,2025-05-21,"fatigue, dizziness",Asthma,"Antibiotics, Prednisone","Vaccination, Wound dressing","Lipid profile, X-ray",Needs follow-up consultation.,English
+P263,2025-09-04,"fatigue, dizziness",Dengue fever,"Antibiotics, Vitamin C","Physical therapy, Angioplasty","Lipid profile, MRI scan",Symptoms mild. Hydration recommended.,Bengali
+P264,2025-09-08,"chest pain, shortness of breath",Food poisoning,"ORS, Prednisone","Blood transfusion, Wound dressing","Lipid profile, Blood sugar test",Needs follow-up consultation.,Bengali
+P265,2025-03-20,"stomach pain, diarrhea",Hypertension,"Antibiotics, ORS","Blood transfusion, Appendectomy","Lipid profile, MRI scan",Patient shows improvement but advised rest.,English
+P266,2025-11-16,"cough, sore throat",Food poisoning,"Antibiotics, Vitamin C","Physical therapy, Vaccination","Urine test, X-ray","Symptoms severe, referred to specialist.",Bengali
+P267,2025-11-19,"stomach pain, diarrhea",Food poisoning,"Cough syrup, Metformin","Angioplasty, Vaccination","MRI scan, Urine test","Symptoms severe, referred to specialist.",English
+P268,2025-04-10,"fatigue, dizziness",Hypertension,"Vitamin C, Cough syrup","Vaccination, Wound dressing","Lipid profile, Urine test",Patient shows improvement but advised rest.,Bengali
+P269,2025-11-18,"chest pain, shortness of breath",Common cold,"Antibiotics, Albuterol","Appendectomy, Wound dressing","Lipid profile, CBC (Complete Blood Count)",Needs follow-up consultation.,English
+P270,2025-10-11,"stomach pain, diarrhea",Dengue fever,"Prednisone, Metformin","Appendectomy, Wound dressing","Urine test, MRI scan",Needs follow-up consultation.,English
+P271,2025-06-28,"fever, headache",Diabetes,"Antibiotics, Albuterol","Physical therapy, Wound dressing","Blood sugar test, MRI scan",Needs follow-up consultation.,Bengali
+P272,2025-08-25,"chest pain, shortness of breath",Common cold,"Lisinopril, Digoxin","Blood transfusion, Angioplasty","CBC (Complete Blood Count), Blood sugar test",Needs follow-up consultation.,Bengali
+P273,2025-10-23,"fever, headache",Food poisoning,"Antibiotics, Paracetamol","Blood transfusion, Angioplasty","Urine test, Blood sugar test",Symptoms mild. Hydration recommended.,Bengali
+P274,2025-03-06,"fatigue, dizziness",Allergy,"Digoxin, Cough syrup","Vaccination, Angioplasty","Lipid profile, CBC (Complete Blood Count)",Prescribed bed rest for recovery.,English
+P275,2025-08-05,"fatigue, dizziness",Heart Failure,"Lisinopril, Antibiotics","Angioplasty, Wound dressing","CBC (Complete Blood Count), MRI scan",Needs follow-up consultation.,Bengali
+P276,2025-09-22,"stomach pain, diarrhea",Dengue fever,"Paracetamol, Vitamin C","Appendectomy, Physical therapy","CBC (Complete Blood Count), Blood sugar test",Symptoms mild. Hydration recommended.,Bengali
+P277,2025-01-13,"chest pain, shortness of breath",Hypertension,"Vitamin C, Prednisone","Angioplasty, Appendectomy","Urine test, X-ray",Needs follow-up consultation.,Bengali
+P278,2025-11-03,"fatigue, dizziness",Food poisoning,"Metformin, Prednisone","Physical therapy, Angioplasty","Urine test, Lipid profile",Symptoms mild. Hydration recommended.,Bengali
+P279,2025-07-23,"fatigue, dizziness",Hypertension,"Prednisone, Digoxin","Angioplasty, Blood transfusion","MRI scan, CBC (Complete Blood Count)","Symptoms severe, referred to specialist.",Bengali
+P280,2025-01-28,"rash, itching",Heart Failure,"Digoxin, Antibiotics","Vaccination, Wound dressing","Urine test, Lipid profile","Symptoms severe, referred to specialist.",English
+P281,2025-04-03,"cough, sore throat",Asthma,"Metformin, Digoxin","Appendectomy, Wound dressing","Urine test, MRI scan",Needs follow-up consultation.,English
+P282,2025-12-19,"cough, sore throat",COPD,"Paracetamol, Digoxin","Appendectomy, Physical therapy","CBC (Complete Blood Count), MRI scan",Symptoms mild. Hydration recommended.,Bengali
+P283,2025-08-22,"rash, itching",Allergy,"Digoxin, Vitamin C","Blood transfusion, Physical therapy","Urine test, Blood sugar test","Symptoms severe, referred to specialist.",Bengali
+P284,2025-09-03,"cough, sore throat",Allergy,"Prednisone, Antibiotics","Vaccination, Blood transfusion","Lipid profile, X-ray",Symptoms mild. Hydration recommended.,English
+P285,2025-06-25,"cough, sore throat",Common cold,"Antibiotics, Digoxin","Angioplasty, Vaccination","MRI scan, Blood sugar test",Patient shows improvement but advised rest.,English
+P286,2025-02-06,"cough, sore throat",Common cold,"Albuterol, Digoxin","Vaccination, Physical therapy","X-ray, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P287,2025-06-23,"cough, sore throat",Common cold,"ORS, Lisinopril","Vaccination, Physical therapy","CBC (Complete Blood Count), Urine test",Needs follow-up consultation.,Bengali
+P288,2025-01-21,"stomach pain, diarrhea",Diabetes,"Paracetamol, Vitamin C","Physical therapy, Appendectomy","X-ray, Urine test",Symptoms mild. Hydration recommended.,Bengali
+P289,2025-12-15,"rash, itching",Common cold,"Digoxin, Albuterol","Wound dressing, Appendectomy","X-ray, CBC (Complete Blood Count)",Needs follow-up consultation.,Bengali
+P290,2025-11-07,"stomach pain, diarrhea",Heart Failure,"Prednisone, Vitamin C","Physical therapy, Vaccination","CBC (Complete Blood Count), MRI scan",Prescribed bed rest for recovery.,English
+P291,2025-09-22,"fatigue, dizziness",Diabetes,"Vitamin C, Albuterol","Physical therapy, Wound dressing","Lipid profile, Urine test",Needs follow-up consultation.,Bengali
+P292,2025-01-06,"chest pain, shortness of breath",Dengue fever,"Metformin, Vitamin C","Wound dressing, Blood transfusion","MRI scan, Blood sugar test",Prescribed bed rest for recovery.,Bengali
+P293,2025-05-28,"fever, headache",Hypertension,"Lisinopril, Metformin","Appendectomy, Angioplasty","X-ray, Blood sugar test","Symptoms severe, referred to specialist.",Bengali
+P294,2025-12-03,"fever, headache",Allergy,"Cough syrup, Digoxin","Vaccination, Angioplasty","X-ray, Lipid profile","Symptoms severe, referred to specialist.",English
+P295,2025-05-05,"chest pain, shortness of breath",Diabetes,"Lisinopril, Antibiotics","Vaccination, Physical therapy","MRI scan, X-ray",Prescribed bed rest for recovery.,Bengali
+P296,2025-11-20,"fever, headache",Dengue fever,"Antibiotics, ORS","Appendectomy, Wound dressing","Lipid profile, MRI scan",Needs follow-up consultation.,Bengali
+P297,2025-03-10,"stomach pain, diarrhea",Allergy,"Lisinopril, Albuterol","Blood transfusion, Vaccination","X-ray, Lipid profile",Patient shows improvement but advised rest.,English
+P298,2025-02-02,"fatigue, dizziness",Hypertension,"Metformin, Prednisone","Physical therapy, Vaccination","MRI scan, Urine test",Symptoms mild. Hydration recommended.,English
+P299,2025-09-02,"fever, headache",Asthma,"Paracetamol, Antibiotics","Vaccination, Angioplasty","MRI scan, X-ray",Prescribed bed rest for recovery.,Bengali
+P300,2025-04-20,"fatigue, dizziness",Allergy,"Paracetamol, Prednisone","Physical therapy, Blood transfusion","MRI scan, Lipid profile",Prescribed bed rest for recovery.,English
+P301,2025-09-03,"chest pain, shortness of breath",Food poisoning,"Paracetamol, Cough syrup","Wound dressing, Blood transfusion","Lipid profile, Urine test","Symptoms severe, referred to specialist.",English
+P302,2025-08-23,"cough, sore throat",Hypertension,"Metformin, Prednisone","Appendectomy, Wound dressing","X-ray, Lipid profile",Symptoms mild. Hydration recommended.,Bengali
+P303,2025-10-15,"chest pain, shortness of breath",Diabetes,"Prednisone, Albuterol","Wound dressing, Blood transfusion","X-ray, Lipid profile","Symptoms severe, referred to specialist.",English
+P304,2025-07-07,"fever, headache",Common cold,"Cough syrup, Metformin","Wound dressing, Appendectomy","MRI scan, Urine test","Symptoms severe, referred to specialist.",Bengali
+P305,2025-08-03,"cough, sore throat",Heart Failure,"Paracetamol, Vitamin C","Vaccination, Wound dressing","CBC (Complete Blood Count), Lipid profile",Patient shows improvement but advised rest.,English
+P306,2025-10-16,"rash, itching",Heart Failure,"Paracetamol, Digoxin","Wound dressing, Blood transfusion","Blood sugar test, Lipid profile",Needs follow-up consultation.,English
+P307,2025-12-08,"fever, headache",Hypertension,"Paracetamol, Digoxin","Angioplasty, Vaccination","MRI scan, Lipid profile",Patient shows improvement but advised rest.,English
+P308,2025-09-20,"stomach pain, diarrhea",Allergy,"Albuterol, Antibiotics","Appendectomy, Angioplasty","X-ray, Blood sugar test",Symptoms mild. Hydration recommended.,Bengali
+P309,2025-02-12,"chest pain, shortness of breath",Diabetes,"Prednisone, Metformin","Appendectomy, Vaccination","MRI scan, Lipid profile",Symptoms mild. Hydration recommended.,English
+P310,2025-04-06,"stomach pain, diarrhea",Heart Failure,"Cough syrup, Paracetamol","Wound dressing, Vaccination","MRI scan, Urine test",Needs follow-up consultation.,Bengali
+P311,2025-12-15,"rash, itching",Common cold,"Antibiotics, Metformin","Physical therapy, Blood transfusion","Urine test, Lipid profile",Symptoms mild. Hydration recommended.,Bengali
+P312,2025-06-21,"cough, sore throat",Hypertension,"Albuterol, Vitamin C","Wound dressing, Angioplasty","Urine test, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,English
+P313,2025-09-14,"fatigue, dizziness",Dengue fever,"Lisinopril, Paracetamol","Angioplasty, Appendectomy","X-ray, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,English
+P314,2025-12-16,"fever, headache",COPD,"Metformin, Digoxin","Physical therapy, Angioplasty","Blood sugar test, Lipid profile",Symptoms mild. Hydration recommended.,Bengali
+P315,2025-06-06,"fatigue, dizziness",Allergy,"Digoxin, Prednisone","Physical therapy, Blood transfusion","Lipid profile, MRI scan",Prescribed bed rest for recovery.,Bengali
+P316,2025-03-17,"chest pain, shortness of breath",Food poisoning,"Paracetamol, Metformin","Physical therapy, Angioplasty","Urine test, X-ray","Symptoms severe, referred to specialist.",English
+P317,2025-09-18,"chest pain, shortness of breath",Common cold,"Prednisone, ORS","Vaccination, Appendectomy","CBC (Complete Blood Count), Blood sugar test",Prescribed bed rest for recovery.,English
+P318,2025-07-08,"fatigue, dizziness",COPD,"Albuterol, Metformin","Angioplasty, Wound dressing","MRI scan, X-ray",Patient shows improvement but advised rest.,English
+P319,2025-11-24,"chest pain, shortness of breath",Heart Failure,"Metformin, Antibiotics","Vaccination, Angioplasty","Urine test, Blood sugar test",Patient shows improvement but advised rest.,English
+P320,2025-09-26,"stomach pain, diarrhea",Asthma,"Digoxin, Cough syrup","Vaccination, Blood transfusion","MRI scan, Urine test",Symptoms mild. Hydration recommended.,English
+P321,2025-06-24,"cough, sore throat",Food poisoning,"Vitamin C, Paracetamol","Vaccination, Blood transfusion","Lipid profile, X-ray",Needs follow-up consultation.,Bengali
+P322,2025-11-17,"rash, itching",COPD,"Antibiotics, Cough syrup","Angioplasty, Appendectomy","Blood sugar test, Lipid profile",Symptoms mild. Hydration recommended.,Bengali
+P323,2025-09-11,"stomach pain, diarrhea",Heart Failure,"Paracetamol, Metformin","Vaccination, Angioplasty","CBC (Complete Blood Count), MRI scan",Symptoms mild. Hydration recommended.,English
+P324,2025-01-28,"fatigue, dizziness",Dengue fever,"Paracetamol, ORS","Angioplasty, Physical therapy","Urine test, X-ray",Prescribed bed rest for recovery.,English
+P325,2025-12-08,"chest pain, shortness of breath",Heart Failure,"Albuterol, Digoxin","Angioplasty, Vaccination","Blood sugar test, Lipid profile",Patient shows improvement but advised rest.,Bengali
+P326,2025-12-06,"rash, itching",Allergy,"Vitamin C, Albuterol","Vaccination, Physical therapy","MRI scan, CBC (Complete Blood Count)",Prescribed bed rest for recovery.,Bengali
+P327,2025-10-27,"chest pain, shortness of breath",Diabetes,"Metformin, Antibiotics","Vaccination, Blood transfusion","CBC (Complete Blood Count), X-ray","Symptoms severe, referred to specialist.",English
+P328,2025-10-16,"cough, sore throat",COPD,"Prednisone, Antibiotics","Physical therapy, Vaccination","Lipid profile, CBC (Complete Blood Count)","Symptoms severe, referred to specialist.",Bengali
+P329,2025-11-23,"cough, sore throat",Diabetes,"Antibiotics, Prednisone","Physical therapy, Angioplasty","Blood sugar test, Urine test",Needs follow-up consultation.,Bengali
+P330,2025-10-02,"fever, headache",Dengue fever,"Digoxin, ORS","Physical therapy, Vaccination","Urine test, MRI scan",Needs follow-up consultation.,Bengali
+P331,2025-09-27,"rash, itching",Diabetes,"ORS, Prednisone","Wound dressing, Angioplasty","Urine test, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,Bengali
+P332,2025-01-07,"cough, sore throat",Asthma,"Cough syrup, Antibiotics","Appendectomy, Wound dressing","Blood sugar test, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,English
+P333,2025-10-23,"rash, itching",Diabetes,"Paracetamol, Metformin","Physical therapy, Blood transfusion","MRI scan, Blood sugar test",Patient shows improvement but advised rest.,Bengali
+P334,2025-06-21,"stomach pain, diarrhea",Asthma,"Cough syrup, ORS","Wound dressing, Angioplasty","Lipid profile, X-ray","Symptoms severe, referred to specialist.",Bengali
+P335,2025-01-03,"chest pain, shortness of breath",Diabetes,"Vitamin C, Antibiotics","Wound dressing, Appendectomy","Lipid profile, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P336,2025-07-13,"fatigue, dizziness",Asthma,"Antibiotics, Cough syrup","Physical therapy, Blood transfusion","Lipid profile, MRI scan",Patient shows improvement but advised rest.,Bengali
+P337,2025-03-23,"rash, itching",Dengue fever,"Vitamin C, Antibiotics","Angioplasty, Blood transfusion","Blood sugar test, X-ray",Symptoms mild. Hydration recommended.,English
+P338,2025-04-18,"stomach pain, diarrhea",Hypertension,"Cough syrup, ORS","Angioplasty, Blood transfusion","Blood sugar test, Lipid profile",Prescribed bed rest for recovery.,English
+P339,2025-06-14,"fatigue, dizziness",Hypertension,"Metformin, Prednisone","Blood transfusion, Angioplasty","Lipid profile, MRI scan",Needs follow-up consultation.,English
+P340,2025-07-24,"fever, headache",Heart Failure,"Cough syrup, Vitamin C","Blood transfusion, Wound dressing","X-ray, Urine test",Prescribed bed rest for recovery.,Bengali
+P341,2025-02-17,"rash, itching",COPD,"Antibiotics, Prednisone","Vaccination, Appendectomy","X-ray, CBC (Complete Blood Count)","Symptoms severe, referred to specialist.",Bengali
+P342,2025-04-17,"fatigue, dizziness",Heart Failure,"Digoxin, Albuterol","Vaccination, Angioplasty","Lipid profile, Blood sugar test",Prescribed bed rest for recovery.,Bengali
+P343,2025-06-04,"fever, headache",COPD,"Metformin, Vitamin C","Blood transfusion, Physical therapy","Lipid profile, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P344,2025-05-19,"chest pain, shortness of breath",Heart Failure,"Albuterol, Cough syrup","Vaccination, Wound dressing","Blood sugar test, Lipid profile",Patient shows improvement but advised rest.,Bengali
+P345,2025-06-13,"fever, headache",Hypertension,"Metformin, Digoxin","Physical therapy, Angioplasty","MRI scan, CBC (Complete Blood Count)",Needs follow-up consultation.,English
+P346,2025-06-18,"cough, sore throat",Diabetes,"ORS, Vitamin C","Blood transfusion, Physical therapy","X-ray, Blood sugar test",Symptoms mild. Hydration recommended.,Bengali
+P347,2025-02-02,"chest pain, shortness of breath",Diabetes,"ORS, Lisinopril","Blood transfusion, Physical therapy","Urine test, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P348,2025-11-16,"fever, headache",COPD,"Antibiotics, Prednisone","Wound dressing, Appendectomy","MRI scan, Lipid profile",Symptoms mild. Hydration recommended.,Bengali
+P349,2025-08-24,"fatigue, dizziness",Diabetes,"Metformin, Vitamin C","Wound dressing, Physical therapy","X-ray, Blood sugar test","Symptoms severe, referred to specialist.",English
+P350,2025-02-07,"chest pain, shortness of breath",Common cold,"Digoxin, Paracetamol","Physical therapy, Appendectomy","Blood sugar test, MRI scan",Patient shows improvement but advised rest.,English
+P351,2025-07-19,"stomach pain, diarrhea",Dengue fever,"Albuterol, Antibiotics","Wound dressing, Physical therapy","Blood sugar test, Urine test",Symptoms mild. Hydration recommended.,English
+P352,2025-07-20,"fever, headache",Heart Failure,"Paracetamol, Cough syrup","Physical therapy, Blood transfusion","Urine test, CBC (Complete Blood Count)","Symptoms severe, referred to specialist.",Bengali
+P353,2025-10-11,"fever, headache",Hypertension,"Albuterol, Lisinopril","Blood transfusion, Appendectomy","Blood sugar test, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,Bengali
+P354,2025-12-15,"cough, sore throat",Common cold,"Metformin, Albuterol","Appendectomy, Angioplasty","CBC (Complete Blood Count), MRI scan",Patient shows improvement but advised rest.,English
+P355,2025-04-21,"fever, headache",Asthma,"Cough syrup, ORS","Wound dressing, Physical therapy","Urine test, MRI scan","Symptoms severe, referred to specialist.",English
+P356,2025-06-09,"fever, headache",Allergy,"ORS, Albuterol","Physical therapy, Wound dressing","CBC (Complete Blood Count), X-ray",Needs follow-up consultation.,Bengali
+P357,2025-11-01,"cough, sore throat",Asthma,"Prednisone, ORS","Blood transfusion, Vaccination","Lipid profile, Urine test","Symptoms severe, referred to specialist.",Bengali
+P358,2025-09-15,"fatigue, dizziness",COPD,"Antibiotics, Cough syrup","Appendectomy, Physical therapy","CBC (Complete Blood Count), X-ray","Symptoms severe, referred to specialist.",English
+P359,2025-10-16,"cough, sore throat",Common cold,"Albuterol, Digoxin","Angioplasty, Vaccination","X-ray, Lipid profile",Patient shows improvement but advised rest.,English
+P360,2025-12-25,"fever, headache",Heart Failure,"Antibiotics, Digoxin","Blood transfusion, Physical therapy","Blood sugar test, CBC (Complete Blood Count)","Symptoms severe, referred to specialist.",Bengali
+P361,2025-11-07,"stomach pain, diarrhea",COPD,"Prednisone, Cough syrup","Wound dressing, Appendectomy","Lipid profile, Blood sugar test",Needs follow-up consultation.,English
+P362,2025-11-18,"chest pain, shortness of breath",Hypertension,"Metformin, Prednisone","Physical therapy, Appendectomy","Urine test, MRI scan",Patient shows improvement but advised rest.,Bengali
+P363,2025-01-04,"cough, sore throat",Hypertension,"Lisinopril, Metformin","Appendectomy, Blood transfusion","Lipid profile, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P364,2025-11-10,"fatigue, dizziness",COPD,"Paracetamol, ORS","Angioplasty, Physical therapy","X-ray, Urine test",Needs follow-up consultation.,English
+P365,2025-04-18,"rash, itching",Dengue fever,"Lisinopril, ORS","Wound dressing, Physical therapy","Urine test, Lipid profile","Symptoms severe, referred to specialist.",Bengali
+P366,2025-12-14,"fever, headache",Allergy,"Cough syrup, Digoxin","Vaccination, Angioplasty","X-ray, MRI scan",Prescribed bed rest for recovery.,English
+P367,2025-06-03,"fever, headache",COPD,"Lisinopril, Albuterol","Blood transfusion, Wound dressing","X-ray, Lipid profile",Symptoms mild. Hydration recommended.,Bengali
+P368,2025-12-15,"fever, headache",Common cold,"Cough syrup, Lisinopril","Angioplasty, Blood transfusion","Lipid profile, X-ray",Prescribed bed rest for recovery.,Bengali
+P369,2025-07-22,"chest pain, shortness of breath",Common cold,"Cough syrup, Paracetamol","Physical therapy, Vaccination","MRI scan, Lipid profile",Needs follow-up consultation.,Bengali
+P370,2025-06-02,"stomach pain, diarrhea",Heart Failure,"Antibiotics, Cough syrup","Wound dressing, Blood transfusion","Blood sugar test, Urine test",Patient shows improvement but advised rest.,Bengali
+P371,2025-12-02,"stomach pain, diarrhea",Hypertension,"Metformin, Paracetamol","Vaccination, Appendectomy","Urine test, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P372,2025-12-19,"rash, itching",Diabetes,"Antibiotics, Digoxin","Appendectomy, Wound dressing","X-ray, MRI scan",Prescribed bed rest for recovery.,English
+P373,2025-09-23,"fatigue, dizziness",Allergy,"Prednisone, Albuterol","Physical therapy, Blood transfusion","Blood sugar test, Urine test",Prescribed bed rest for recovery.,English
+P374,2025-03-21,"cough, sore throat",Common cold,"Antibiotics, Vitamin C","Vaccination, Physical therapy","MRI scan, Blood sugar test",Prescribed bed rest for recovery.,Bengali
+P375,2025-01-17,"cough, sore throat",Hypertension,"Paracetamol, Albuterol","Angioplasty, Wound dressing","MRI scan, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,English
+P376,2025-07-17,"cough, sore throat",Hypertension,"Digoxin, Cough syrup","Angioplasty, Appendectomy","MRI scan, X-ray",Needs follow-up consultation.,Bengali
+P377,2025-07-28,"stomach pain, diarrhea",Allergy,"Metformin, Vitamin C","Blood transfusion, Appendectomy","Urine test, Blood sugar test",Patient shows improvement but advised rest.,Bengali
+P378,2025-08-28,"stomach pain, diarrhea",Allergy,"Digoxin, Vitamin C","Vaccination, Appendectomy","Lipid profile, Blood sugar test",Patient shows improvement but advised rest.,English
+P379,2025-06-20,"cough, sore throat",Allergy,"Metformin, Cough syrup","Physical therapy, Angioplasty","CBC (Complete Blood Count), MRI scan",Needs follow-up consultation.,English
+P380,2025-01-23,"chest pain, shortness of breath",Common cold,"Vitamin C, Metformin","Vaccination, Wound dressing","Lipid profile, X-ray",Symptoms mild. Hydration recommended.,English
+P381,2025-08-13,"chest pain, shortness of breath",Diabetes,"ORS, Vitamin C","Physical therapy, Angioplasty","X-ray, Lipid profile",Prescribed bed rest for recovery.,Bengali
+P382,2025-07-23,"stomach pain, diarrhea",Hypertension,"Digoxin, Metformin","Blood transfusion, Physical therapy","Blood sugar test, MRI scan",Needs follow-up consultation.,English
+P383,2025-03-14,"fever, headache",Allergy,"ORS, Metformin","Physical therapy, Blood transfusion","X-ray, Urine test",Symptoms mild. Hydration recommended.,English
+P384,2025-04-12,"fatigue, dizziness",Hypertension,"Cough syrup, ORS","Vaccination, Appendectomy","Lipid profile, MRI scan",Patient shows improvement but advised rest.,English
+P385,2025-04-15,"rash, itching",Diabetes,"ORS, Digoxin","Blood transfusion, Wound dressing","X-ray, Urine test",Needs follow-up consultation.,Bengali
+P386,2025-11-18,"chest pain, shortness of breath",Allergy,"Prednisone, ORS","Appendectomy, Blood transfusion","Lipid profile, Blood sugar test",Symptoms mild. Hydration recommended.,Bengali
+P387,2025-04-04,"fatigue, dizziness",Asthma,"Cough syrup, Antibiotics","Angioplasty, Appendectomy","MRI scan, Urine test",Patient shows improvement but advised rest.,Bengali
+P388,2025-10-25,"rash, itching",Diabetes,"Vitamin C, Albuterol","Blood transfusion, Wound dressing","X-ray, MRI scan",Patient shows improvement but advised rest.,English
+P389,2025-09-25,"cough, sore throat",COPD,"Digoxin, Prednisone","Vaccination, Appendectomy","Urine test, Blood sugar test",Patient shows improvement but advised rest.,English
+P390,2025-10-05,"chest pain, shortness of breath",Common cold,"Paracetamol, Cough syrup","Appendectomy, Physical therapy","Lipid profile, X-ray",Prescribed bed rest for recovery.,English
+P391,2025-02-16,"fever, headache",COPD,"Prednisone, Antibiotics","Physical therapy, Vaccination","X-ray, MRI scan",Patient shows improvement but advised rest.,Bengali
+P392,2025-10-23,"stomach pain, diarrhea",Hypertension,"Metformin, Albuterol","Angioplasty, Blood transfusion","Lipid profile, X-ray",Symptoms mild. Hydration recommended.,Bengali
+P393,2025-11-23,"fever, headache",Asthma,"Vitamin C, Digoxin","Vaccination, Physical therapy","Blood sugar test, CBC (Complete Blood Count)",Needs follow-up consultation.,Bengali
+P394,2025-03-15,"fever, headache",Food poisoning,"Antibiotics, Albuterol","Physical therapy, Angioplasty","CBC (Complete Blood Count), Blood sugar test",Patient shows improvement but advised rest.,Bengali
+P395,2025-09-06,"chest pain, shortness of breath",Food poisoning,"ORS, Cough syrup","Vaccination, Blood transfusion","Lipid profile, CBC (Complete Blood Count)","Symptoms severe, referred to specialist.",English
+P396,2025-04-27,"rash, itching",Food poisoning,"Metformin, Cough syrup","Appendectomy, Wound dressing","X-ray, Lipid profile","Symptoms severe, referred to specialist.",English
+P397,2025-09-25,"fever, headache",Allergy,"Vitamin C, Lisinopril","Blood transfusion, Physical therapy","Blood sugar test, Urine test",Prescribed bed rest for recovery.,Bengali
+P398,2025-06-27,"chest pain, shortness of breath",Common cold,"Cough syrup, Digoxin","Wound dressing, Vaccination","Lipid profile, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P399,2025-01-07,"fatigue, dizziness",Asthma,"ORS, Prednisone","Blood transfusion, Wound dressing","CBC (Complete Blood Count), Urine test",Patient shows improvement but advised rest.,English
+P400,2025-10-01,"fatigue, dizziness",Diabetes,"Cough syrup, Metformin","Angioplasty, Blood transfusion","X-ray, Lipid profile",Needs follow-up consultation.,Bengali
+P401,2025-02-17,"rash, itching",Dengue fever,"Antibiotics, Paracetamol","Wound dressing, Vaccination","CBC (Complete Blood Count), X-ray",Prescribed bed rest for recovery.,English
+P402,2025-04-10,"stomach pain, diarrhea",Dengue fever,"Vitamin C, Albuterol","Appendectomy, Angioplasty","Lipid profile, X-ray",Needs follow-up consultation.,English
+P403,2025-02-06,"stomach pain, diarrhea",Food poisoning,"Albuterol, Lisinopril","Blood transfusion, Angioplasty","MRI scan, CBC (Complete Blood Count)",Needs follow-up consultation.,Bengali
+P404,2025-07-11,"fatigue, dizziness",Heart Failure,"Albuterol, Prednisone","Blood transfusion, Physical therapy","Blood sugar test, Lipid profile",Prescribed bed rest for recovery.,English
+P405,2025-03-16,"rash, itching",Allergy,"Lisinopril, Paracetamol","Angioplasty, Blood transfusion","MRI scan, Lipid profile",Prescribed bed rest for recovery.,Bengali
+P406,2025-11-15,"rash, itching",Dengue fever,"Lisinopril, ORS","Blood transfusion, Appendectomy","MRI scan, Blood sugar test",Symptoms mild. Hydration recommended.,Bengali
+P407,2025-11-14,"fever, headache",Hypertension,"Antibiotics, Metformin","Vaccination, Appendectomy","Urine test, Lipid profile",Needs follow-up consultation.,English
+P408,2025-12-11,"fatigue, dizziness",Allergy,"Vitamin C, Prednisone","Wound dressing, Vaccination","X-ray, Blood sugar test",Needs follow-up consultation.,English
+P409,2025-05-10,"fever, headache",Heart Failure,"Digoxin, Antibiotics","Appendectomy, Physical therapy","Lipid profile, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,Bengali
+P410,2025-04-11,"fatigue, dizziness",Common cold,"Cough syrup, Digoxin","Physical therapy, Blood transfusion","Urine test, CBC (Complete Blood Count)","Symptoms severe, referred to specialist.",Bengali
+P411,2025-07-05,"rash, itching",Diabetes,"Lisinopril, ORS","Vaccination, Angioplasty","Blood sugar test, MRI scan",Prescribed bed rest for recovery.,English
+P412,2025-04-17,"stomach pain, diarrhea",Allergy,"Metformin, Paracetamol","Blood transfusion, Physical therapy","Lipid profile, Urine test",Symptoms mild. Hydration recommended.,Bengali
+P413,2025-07-22,"fever, headache",Diabetes,"Paracetamol, Digoxin","Appendectomy, Wound dressing","MRI scan, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,English
+P414,2025-12-17,"fatigue, dizziness",Allergy,"Lisinopril, Cough syrup","Vaccination, Angioplasty","Lipid profile, CBC (Complete Blood Count)","Symptoms severe, referred to specialist.",English
+P415,2025-10-17,"fever, headache",Heart Failure,"Paracetamol, Prednisone","Appendectomy, Blood transfusion","Blood sugar test, CBC (Complete Blood Count)",Prescribed bed rest for recovery.,English
+P416,2025-08-28,"chest pain, shortness of breath",Allergy,"Cough syrup, Lisinopril","Physical therapy, Angioplasty","X-ray, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,Bengali
+P417,2025-11-19,"stomach pain, diarrhea",Food poisoning,"Antibiotics, ORS","Angioplasty, Appendectomy","X-ray, MRI scan","Symptoms severe, referred to specialist.",English
+P418,2025-09-07,"rash, itching",Food poisoning,"Paracetamol, Lisinopril","Physical therapy, Blood transfusion","Blood sugar test, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P419,2025-06-02,"fever, headache",Asthma,"Paracetamol, Lisinopril","Vaccination, Wound dressing","Urine test, Blood sugar test","Symptoms severe, referred to specialist.",English
+P420,2025-01-01,"stomach pain, diarrhea",Common cold,"Vitamin C, Metformin","Physical therapy, Wound dressing","CBC (Complete Blood Count), Urine test","Symptoms severe, referred to specialist.",Bengali
+P421,2025-05-27,"stomach pain, diarrhea",Asthma,"Prednisone, Vitamin C","Vaccination, Angioplasty","Lipid profile, CBC (Complete Blood Count)","Symptoms severe, referred to specialist.",English
+P422,2025-05-14,"fatigue, dizziness",Allergy,"Digoxin, Metformin","Physical therapy, Appendectomy","Urine test, CBC (Complete Blood Count)","Symptoms severe, referred to specialist.",Bengali
+P423,2025-01-23,"cough, sore throat",Dengue fever,"Metformin, Digoxin","Blood transfusion, Appendectomy","CBC (Complete Blood Count), Urine test",Symptoms mild. Hydration recommended.,Bengali
+P424,2025-12-21,"chest pain, shortness of breath",Asthma,"Cough syrup, ORS","Blood transfusion, Vaccination","X-ray, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P425,2025-12-02,"chest pain, shortness of breath",Allergy,"Albuterol, ORS","Blood transfusion, Angioplasty","Blood sugar test, Lipid profile","Symptoms severe, referred to specialist.",Bengali
+P426,2025-09-05,"fatigue, dizziness",Heart Failure,"Vitamin C, Albuterol","Appendectomy, Vaccination","Lipid profile, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P427,2025-09-09,"chest pain, shortness of breath",Heart Failure,"Cough syrup, Albuterol","Angioplasty, Vaccination","Lipid profile, MRI scan",Symptoms mild. Hydration recommended.,English
+P428,2025-01-05,"chest pain, shortness of breath",Asthma,"Digoxin, Metformin","Physical therapy, Blood transfusion","CBC (Complete Blood Count), Urine test",Patient shows improvement but advised rest.,Bengali
+P429,2025-01-10,"cough, sore throat",Asthma,"Vitamin C, Digoxin","Physical therapy, Vaccination","CBC (Complete Blood Count), Blood sugar test","Symptoms severe, referred to specialist.",English
+P430,2025-05-22,"rash, itching",Dengue fever,"Lisinopril, Metformin","Vaccination, Angioplasty","X-ray, MRI scan","Symptoms severe, referred to specialist.",English
+P431,2025-08-02,"stomach pain, diarrhea",Allergy,"Metformin, Prednisone","Wound dressing, Vaccination","X-ray, Urine test",Patient shows improvement but advised rest.,Bengali
+P432,2025-09-13,"chest pain, shortness of breath",Allergy,"Paracetamol, Antibiotics","Wound dressing, Vaccination","Urine test, Lipid profile",Symptoms mild. Hydration recommended.,English
+P433,2025-04-01,"fatigue, dizziness",Dengue fever,"Cough syrup, Digoxin","Wound dressing, Angioplasty","X-ray, CBC (Complete Blood Count)",Prescribed bed rest for recovery.,Bengali
+P434,2025-01-06,"fever, headache",Hypertension,"ORS, Antibiotics","Appendectomy, Physical therapy","MRI scan, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P435,2025-01-26,"chest pain, shortness of breath",Common cold,"Vitamin C, Albuterol","Wound dressing, Vaccination","MRI scan, Urine test",Symptoms mild. Hydration recommended.,English
+P436,2025-01-18,"fever, headache",Heart Failure,"Paracetamol, Cough syrup","Angioplasty, Blood transfusion","Lipid profile, X-ray",Needs follow-up consultation.,English
+P437,2025-11-16,"chest pain, shortness of breath",Hypertension,"Paracetamol, Metformin","Wound dressing, Vaccination","Lipid profile, X-ray",Prescribed bed rest for recovery.,Bengali
+P438,2025-01-05,"cough, sore throat",COPD,"Albuterol, Lisinopril","Vaccination, Wound dressing","Blood sugar test, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P439,2025-06-03,"stomach pain, diarrhea",Dengue fever,"Antibiotics, Cough syrup","Blood transfusion, Physical therapy","Lipid profile, CBC (Complete Blood Count)","Symptoms severe, referred to specialist.",English
+P440,2025-01-02,"cough, sore throat",Dengue fever,"Digoxin, Metformin","Angioplasty, Physical therapy","Lipid profile, X-ray",Prescribed bed rest for recovery.,English
+P441,2025-06-09,"cough, sore throat",Heart Failure,"ORS, Cough syrup","Physical therapy, Appendectomy","X-ray, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,English
+P442,2025-01-13,"chest pain, shortness of breath",COPD,"Cough syrup, Paracetamol","Wound dressing, Physical therapy","Lipid profile, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P443,2025-02-03,"stomach pain, diarrhea",Food poisoning,"ORS, Antibiotics","Vaccination, Appendectomy","Blood sugar test, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P444,2025-09-05,"chest pain, shortness of breath",Allergy,"Paracetamol, Vitamin C","Wound dressing, Angioplasty","Blood sugar test, CBC (Complete Blood Count)",Prescribed bed rest for recovery.,Bengali
+P445,2025-02-19,"chest pain, shortness of breath",Common cold,"Cough syrup, Metformin","Appendectomy, Blood transfusion","Urine test, Blood sugar test",Prescribed bed rest for recovery.,English
+P446,2025-12-17,"fever, headache",Food poisoning,"Albuterol, Vitamin C","Blood transfusion, Physical therapy","Blood sugar test, CBC (Complete Blood Count)",Symptoms mild. Hydration recommended.,Bengali
+P447,2025-08-10,"rash, itching",Common cold,"Albuterol, Lisinopril","Physical therapy, Wound dressing","X-ray, MRI scan",Needs follow-up consultation.,English
+P448,2025-12-22,"cough, sore throat",Common cold,"Metformin, Digoxin","Vaccination, Appendectomy","Blood sugar test, Lipid profile",Symptoms mild. Hydration recommended.,English
+P449,2025-11-27,"cough, sore throat",Diabetes,"Digoxin, Cough syrup","Blood transfusion, Wound dressing","MRI scan, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,Bengali
+P450,2025-06-26,"chest pain, shortness of breath",Allergy,"Paracetamol, Lisinopril","Blood transfusion, Wound dressing","CBC (Complete Blood Count), Lipid profile","Symptoms severe, referred to specialist.",Bengali
+P451,2025-11-11,"cough, sore throat",Dengue fever,"Prednisone, Lisinopril","Blood transfusion, Appendectomy","MRI scan, Blood sugar test",Patient shows improvement but advised rest.,English
+P452,2025-06-08,"stomach pain, diarrhea",COPD,"Metformin, Antibiotics","Physical therapy, Appendectomy","Urine test, Blood sugar test",Patient shows improvement but advised rest.,Bengali
+P453,2025-11-17,"fever, headache",Common cold,"Metformin, Albuterol","Blood transfusion, Wound dressing","X-ray, CBC (Complete Blood Count)",Needs follow-up consultation.,Bengali
+P454,2025-11-08,"cough, sore throat",Diabetes,"Metformin, Vitamin C","Wound dressing, Physical therapy","X-ray, Urine test","Symptoms severe, referred to specialist.",English
+P455,2025-05-20,"rash, itching",Diabetes,"Paracetamol, Cough syrup","Physical therapy, Vaccination","X-ray, Blood sugar test",Symptoms mild. Hydration recommended.,Bengali
+P456,2025-03-21,"chest pain, shortness of breath",Hypertension,"Albuterol, ORS","Angioplasty, Wound dressing","Lipid profile, CBC (Complete Blood Count)",Needs follow-up consultation.,Bengali
+P457,2025-04-02,"fatigue, dizziness",Hypertension,"Antibiotics, Cough syrup","Appendectomy, Vaccination","X-ray, Urine test",Prescribed bed rest for recovery.,Bengali
+P458,2025-05-09,"fever, headache",Diabetes,"Antibiotics, ORS","Angioplasty, Vaccination","Urine test, X-ray",Symptoms mild. Hydration recommended.,Bengali
+P459,2025-04-14,"stomach pain, diarrhea",Heart Failure,"Digoxin, Lisinopril","Appendectomy, Wound dressing","Blood sugar test, Urine test",Symptoms mild. Hydration recommended.,Bengali
+P460,2025-08-05,"fatigue, dizziness",COPD,"Cough syrup, Digoxin","Appendectomy, Physical therapy","Lipid profile, Blood sugar test",Patient shows improvement but advised rest.,Bengali
+P461,2025-12-27,"fever, headache",Allergy,"Digoxin, Lisinopril","Wound dressing, Angioplasty","Blood sugar test, Urine test",Needs follow-up consultation.,Bengali
+P462,2025-03-22,"fatigue, dizziness",COPD,"Cough syrup, Vitamin C","Angioplasty, Appendectomy","Lipid profile, MRI scan",Symptoms mild. Hydration recommended.,Bengali
+P463,2025-07-09,"chest pain, shortness of breath",Allergy,"Antibiotics, Paracetamol","Appendectomy, Physical therapy","X-ray, MRI scan",Patient shows improvement but advised rest.,English
+P464,2025-08-28,"fatigue, dizziness",Diabetes,"Prednisone, ORS","Vaccination, Appendectomy","MRI scan, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,English
+P465,2025-02-04,"chest pain, shortness of breath",Food poisoning,"Metformin, Prednisone","Vaccination, Wound dressing","MRI scan, X-ray",Needs follow-up consultation.,English
+P466,2025-11-28,"rash, itching",COPD,"Paracetamol, Albuterol","Wound dressing, Vaccination","Blood sugar test, MRI scan",Symptoms mild. Hydration recommended.,English
+P467,2025-03-11,"fever, headache",Food poisoning,"Prednisone, Digoxin","Wound dressing, Physical therapy","MRI scan, Blood sugar test",Symptoms mild. Hydration recommended.,English
+P468,2025-07-19,"chest pain, shortness of breath",Diabetes,"Cough syrup, ORS","Blood transfusion, Physical therapy","Blood sugar test, Lipid profile",Needs follow-up consultation.,English
+P469,2025-04-11,"rash, itching",Heart Failure,"Cough syrup, Metformin","Physical therapy, Angioplasty","Urine test, X-ray",Prescribed bed rest for recovery.,Bengali
+P470,2025-09-15,"rash, itching",COPD,"Prednisone, ORS","Physical therapy, Angioplasty","Urine test, MRI scan","Symptoms severe, referred to specialist.",English
+P471,2025-08-17,"fatigue, dizziness",Food poisoning,"Cough syrup, Digoxin","Physical therapy, Vaccination","Urine test, Lipid profile",Prescribed bed rest for recovery.,English
+P472,2025-10-24,"cough, sore throat",Dengue fever,"Digoxin, ORS","Wound dressing, Appendectomy","Blood sugar test, Lipid profile","Symptoms severe, referred to specialist.",Bengali
+P473,2025-08-01,"cough, sore throat",Common cold,"Albuterol, Cough syrup","Angioplasty, Wound dressing","Lipid profile, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P474,2025-05-16,"rash, itching",Diabetes,"Vitamin C, Albuterol","Angioplasty, Vaccination","Lipid profile, Blood sugar test","Symptoms severe, referred to specialist.",English
+P475,2025-07-24,"stomach pain, diarrhea",Diabetes,"Lisinopril, Antibiotics","Wound dressing, Physical therapy","CBC (Complete Blood Count), X-ray",Symptoms mild. Hydration recommended.,English
+P476,2025-02-03,"fever, headache",Food poisoning,"Antibiotics, Digoxin","Vaccination, Appendectomy","Blood sugar test, X-ray",Needs follow-up consultation.,English
+P477,2025-04-28,"chest pain, shortness of breath",Asthma,"Digoxin, Lisinopril","Blood transfusion, Angioplasty","Blood sugar test, Urine test",Symptoms mild. Hydration recommended.,Bengali
+P478,2025-10-05,"fatigue, dizziness",COPD,"Lisinopril, Metformin","Blood transfusion, Appendectomy","Blood sugar test, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P479,2025-06-09,"fatigue, dizziness",Allergy,"Metformin, Prednisone","Wound dressing, Vaccination","Blood sugar test, Lipid profile",Symptoms mild. Hydration recommended.,Bengali
+P480,2025-11-24,"fatigue, dizziness",Diabetes,"Albuterol, Cough syrup","Angioplasty, Physical therapy","MRI scan, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,English
+P481,2025-01-22,"fever, headache",Common cold,"Antibiotics, Cough syrup","Angioplasty, Blood transfusion","CBC (Complete Blood Count), X-ray",Symptoms mild. Hydration recommended.,Bengali
+P482,2025-07-28,"fever, headache",Allergy,"Antibiotics, Lisinopril","Physical therapy, Blood transfusion","X-ray, MRI scan","Symptoms severe, referred to specialist.",English
+P483,2025-01-14,"fatigue, dizziness",Dengue fever,"Albuterol, ORS","Appendectomy, Physical therapy","Urine test, X-ray",Prescribed bed rest for recovery.,Bengali
+P484,2025-03-27,"fever, headache",Food poisoning,"Paracetamol, Prednisone","Appendectomy, Wound dressing","MRI scan, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,English
+P485,2025-09-28,"fatigue, dizziness",Common cold,"Vitamin C, Prednisone","Wound dressing, Appendectomy","Lipid profile, X-ray","Symptoms severe, referred to specialist.",Bengali
+P486,2025-06-25,"fever, headache",Allergy,"ORS, Metformin","Wound dressing, Blood transfusion","Lipid profile, Urine test",Symptoms mild. Hydration recommended.,English
+P487,2025-05-20,"cough, sore throat",Diabetes,"Lisinopril, Metformin","Appendectomy, Physical therapy","MRI scan, Urine test","Symptoms severe, referred to specialist.",English
+P488,2025-07-05,"stomach pain, diarrhea",Diabetes,"Paracetamol, Digoxin","Blood transfusion, Angioplasty","Blood sugar test, Lipid profile",Patient shows improvement but advised rest.,Bengali
+P489,2025-05-23,"fatigue, dizziness",Common cold,"Antibiotics, Prednisone","Physical therapy, Blood transfusion","X-ray, Urine test","Symptoms severe, referred to specialist.",Bengali
+P490,2025-10-25,"stomach pain, diarrhea",Allergy,"Cough syrup, Antibiotics","Physical therapy, Vaccination","CBC (Complete Blood Count), MRI scan","Symptoms severe, referred to specialist.",English
+P491,2025-09-20,"chest pain, shortness of breath",Heart Failure,"ORS, Albuterol","Angioplasty, Vaccination","Lipid profile, X-ray","Symptoms severe, referred to specialist.",English
+P492,2025-04-26,"fatigue, dizziness",Dengue fever,"Paracetamol, Cough syrup","Appendectomy, Angioplasty","CBC (Complete Blood Count), MRI scan","Symptoms severe, referred to specialist.",Bengali
+P493,2025-01-18,"fatigue, dizziness",Heart Failure,"ORS, Metformin","Appendectomy, Vaccination","CBC (Complete Blood Count), MRI scan",Patient shows improvement but advised rest.,English
+P494,2025-02-28,"fatigue, dizziness",Heart Failure,"Prednisone, Digoxin","Angioplasty, Blood transfusion","Urine test, MRI scan",Prescribed bed rest for recovery.,English
+P495,2025-03-24,"chest pain, shortness of breath",Hypertension,"Antibiotics, Prednisone","Physical therapy, Vaccination","Urine test, X-ray",Patient shows improvement but advised rest.,English
+P496,2025-04-21,"stomach pain, diarrhea",Heart Failure,"Lisinopril, Vitamin C","Vaccination, Wound dressing","CBC (Complete Blood Count), Urine test",Needs follow-up consultation.,English
+P497,2025-09-10,"fatigue, dizziness",Diabetes,"Cough syrup, Paracetamol","Physical therapy, Appendectomy","Blood sugar test, CBC (Complete Blood Count)",Patient shows improvement but advised rest.,Bengali
+P498,2025-02-03,"chest pain, shortness of breath",Asthma,"Vitamin C, Antibiotics","Vaccination, Physical therapy","Lipid profile, MRI scan","Symptoms severe, referred to specialist.",Bengali
+P499,2025-01-02,"rash, itching",Hypertension,"Vitamin C, Cough syrup","Wound dressing, Vaccination","Urine test, MRI scan",Needs follow-up consultation.,Bengali
+P500,2025-01-26,"fatigue, dizziness",Dengue fever,"Antibiotics, Albuterol","Angioplasty, Appendectomy","X-ray, CBC (Complete Blood Count)",Prescribed bed rest for recovery.,English
