@@ -1,0 +1,7 @@
+langchain
+langchain-community
+qdrant_client
+sentence-transformers
+torch
+pandas
+numpy
