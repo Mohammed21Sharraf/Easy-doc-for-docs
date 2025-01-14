@@ -1,8 +1,8 @@
 import os
+import numpy
 import torch
 from PIL import Image
 from torchvision import transforms
-import numpy as np
 
 def embed_images(directory, model, processor, device):
     embeddings = []
@@ -30,7 +30,7 @@ def embed_images(directory, model, processor, device):
             embedding = outputs.cpu().numpy().flatten()  # Convert to 1D array
         
         embeddings.append(embedding)
-        metadata.append(file_name)
+        metadata.append({'file_name': file_name, 'file_path': file_path})
 
         print(f"Processed: {file_name}")
 

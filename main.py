@@ -1,12 +1,14 @@
-import pandas as pd
-from utilities.preprocess import preprocess_blood_test_report, add_patient_id_col, save_csv
-from utilities.embedding import embed_numerical_features, combine_embeddings
-from utilities.embed_xray_images import embed_images
-from transformers import BertTokenizer, BertModel
-import numpy as np
-from transformers import CLIPProcessor, CLIPModel
-import torch
 import os
+import json
+import torch
+import numpy as np
+import pandas as pd
+from transformers import CLIPProcessor, CLIPModel
+from transformers import BertTokenizer, BertModel
+from utilities.embed_xray_images import embed_images
+from utilities.setup_qdrant import setup_qdrant, create_collection, upload_collection
+from utilities.embedding import embed_numerical_features, combine_embeddings
+from utilities.preprocess import preprocess_blood_test_report, add_patient_id_col, save_csv
 
 if __name__ == "__main__":
     folder_path = 'embeddings'
@@ -32,15 +34,34 @@ if __name__ == "__main__":
 
         # Create Embeddings and save embeddings
         blood_test_report_preprocessed, numeric_cols = embed_numerical_features(blood_test_report_preprocessed)
-        blood_test_embeddings = combine_embeddings(blood_test_report_preprocessed, numeric_cols, tokenizer_BIOBert, BIOBert)
+        blood_test_embeddings, blood_test_metadata = combine_embeddings(blood_test_report_preprocessed, numeric_cols, tokenizer_BIOBert, BIOBert)
+
+        with open("metadata/blood_test_metadata.json", "w") as f:
+            json.dump(blood_test_metadata, f, indent=4)
         np.save('embeddings/blood_test_embeddings.npy', blood_test_embeddings)
         print("BLOOD TEST REPORT EMBEDDING DONE")
 
         # Create X-ray Image Embedding
         xray_embeddings, xray_metadata = embed_images('raw data/X-ray Images', model_CLIP, processor_CLIP, device)
-        print(xray_embeddings[0])
+
+        with open("metadata/xray_metadata.json", "w") as f:
+            json.dump(xray_metadata, f, indent=4)
         np.save('embeddings/xray_embeddings.npy', xray_embeddings)
         print("XRAY IMAGE EMBEDDING DONE")
+
+
+    blood_test_embeddings = np.load('embeddings/blood_test_embeddings.npy', allow_pickle=True)
+    with open("metadata/blood_test_metadata.json", "r") as f:
+        blood_test_metadata = json.load(f)
+
+    
+
+    client = setup_qdrant()
+    create_collection(client, 'blood_tests', len(blood_test_embeddings[0]))
+    upload_collection(client, 'blood_tests', blood_test_embeddings, blood_test_metadata)
+
+    
+
     
 
 

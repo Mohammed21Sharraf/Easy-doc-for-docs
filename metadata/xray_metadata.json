@@ -1,0 +1,2002 @@
+[
+    {
+        "file_name": "p161_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p161_normal.jpeg"
+    },
+    {
+        "file_name": "p328_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p328_normal.jpeg"
+    },
+    {
+        "file_name": "p152_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p152_tuberculosis.png"
+    },
+    {
+        "file_name": "p366_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p366_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p111_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p111_normal.jpeg"
+    },
+    {
+        "file_name": "p037_covid.jpg",
+        "file_path": "raw data/X-ray Images/p037_covid.jpg"
+    },
+    {
+        "file_name": "p270_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p270_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p439_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p439_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p306_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p306_normal.jpeg"
+    },
+    {
+        "file_name": "p317_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p317_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p399_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p399_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p334_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p334_tuberculosis.png"
+    },
+    {
+        "file_name": "p049_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p049_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p214_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p214_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p448_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p448_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p473_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p473_normal.jpeg"
+    },
+    {
+        "file_name": "p455_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p455_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p041_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p041_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p054_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p054_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p209_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p209_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p384_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p384_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p011_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p011_tuberculosis.png"
+    },
+    {
+        "file_name": "p414_covid.jpg",
+        "file_path": "raw data/X-ray Images/p414_covid.jpg"
+    },
+    {
+        "file_name": "p157_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p157_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p142_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p142_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p287_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p287_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p292_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p292_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p424_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p424_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p226_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p226_normal.jpeg"
+    },
+    {
+        "file_name": "p278_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p278_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p025_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p025_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p030_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p030_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p293_covid.jpg",
+        "file_path": "raw data/X-ray Images/p293_covid.jpg"
+    },
+    {
+        "file_name": "p256_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p256_normal.jpeg"
+    },
+    {
+        "file_name": "p016_covid.jpg",
+        "file_path": "raw data/X-ray Images/p016_covid.jpg"
+    },
+    {
+        "file_name": "p249_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p249_tuberculosis.png"
+    },
+    {
+        "file_name": "p199_covid.jpg",
+        "file_path": "raw data/X-ray Images/p199_covid.jpg"
+    },
+    {
+        "file_name": "p277_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p277_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p351_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p351_normal.jpeg"
+    },
+    {
+        "file_name": "p129_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p129_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p361_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p361_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p321_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p321_normal.jpeg"
+    },
+    {
+        "file_name": "p263_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p263_tuberculosis.png"
+    },
+    {
+        "file_name": "p213_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p213_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p167_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p167_tuberculosis.png"
+    },
+    {
+        "file_name": "p146_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p146_normal.jpeg"
+    },
+    {
+        "file_name": "p290_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p290_normal.jpeg"
+    },
+    {
+        "file_name": "p310_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p310_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p305_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p305_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p158_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p158_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p288_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p288_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p024_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p024_normal.jpeg"
+    },
+    {
+        "file_name": "p262_covid.jpg",
+        "file_path": "raw data/X-ray Images/p262_covid.jpg"
+    },
+    {
+        "file_name": "p295_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p295_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p318_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p318_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p180_covid.jpg",
+        "file_path": "raw data/X-ray Images/p180_covid.jpg"
+    },
+    {
+        "file_name": "p487_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p487_normal.jpeg"
+    },
+    {
+        "file_name": "p383_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p383_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p396_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p396_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p242_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p242_tuberculosis.png"
+    },
+    {
+        "file_name": "p046_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p046_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p133_covid.jpg",
+        "file_path": "raw data/X-ray Images/p133_covid.jpg"
+    },
+    {
+        "file_name": "p243_covid.jpg",
+        "file_path": "raw data/X-ray Images/p243_covid.jpg"
+    },
+    {
+        "file_name": "p447_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p447_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p452_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p452_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p121_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p121_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p369_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p369_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p189_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p189_normal.jpeg"
+    },
+    {
+        "file_name": "p194_covid.jpg",
+        "file_path": "raw data/X-ray Images/p194_covid.jpg"
+    },
+    {
+        "file_name": "p454_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p454_normal.jpeg"
+    },
+    {
+        "file_name": "p436_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p436_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p045_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p045_tuberculosis.png"
+    },
+    {
+        "file_name": "p453_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p453_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p397_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p397_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p319_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p319_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p151_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p151_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p144_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p144_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p463_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p463_normal.jpeg"
+    },
+    {
+        "file_name": "p281_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p281_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p324_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p324_normal.jpeg"
+    },
+    {
+        "file_name": "p023_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p023_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p036_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p036_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p190_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p190_normal.jpeg"
+    },
+    {
+        "file_name": "p223_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p223_tuberculosis.png"
+    },
+    {
+        "file_name": "p082_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p082_normal.jpeg"
+    },
+    {
+        "file_name": "p368_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p368_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p360_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p360_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p276_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p276_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p421_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p421_normal.jpeg"
+    },
+    {
+        "file_name": "p119_covid.jpg",
+        "file_path": "raw data/X-ray Images/p119_covid.jpg"
+    },
+    {
+        "file_name": "p311_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p311_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p159_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p159_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p289_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p289_normal.jpeg"
+    },
+    {
+        "file_name": "p316_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p316_normal.jpeg"
+    },
+    {
+        "file_name": "p449_covid.jpg",
+        "file_path": "raw data/X-ray Images/p449_covid.jpg"
+    },
+    {
+        "file_name": "p462_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p462_tuberculosis.png"
+    },
+    {
+        "file_name": "p286_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p286_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p143_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p143_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p156_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p156_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p211_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p211_normal.jpeg"
+    },
+    {
+        "file_name": "p390_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p390_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p228_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p228_tuberculosis.png"
+    },
+    {
+        "file_name": "p028_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p028_normal.jpeg"
+    },
+    {
+        "file_name": "p055_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p055_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p040_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p040_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p441_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p441_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p127_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p127_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p006_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p006_normal.jpeg"
+    },
+    {
+        "file_name": "p279_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p279_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p031_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p031_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p425_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p425_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p430_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p430_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p438_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p438_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p264_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p264_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p178_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p178_normal.jpeg"
+    },
+    {
+        "file_name": "p185_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p185_normal.jpeg"
+    },
+    {
+        "file_name": "p336_covid.jpg",
+        "file_path": "raw data/X-ray Images/p336_covid.jpg"
+    },
+    {
+        "file_name": "p097_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p097_normal.jpeg"
+    },
+    {
+        "file_name": "p048_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p048_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p034_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p034_normal.jpeg"
+    },
+    {
+        "file_name": "p200_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p200_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p215_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p215_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p280_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p280_normal.jpeg"
+    },
+    {
+        "file_name": "p303_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p303_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p126_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p126_normal.jpeg"
+    },
+    {
+        "file_name": "p033_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p033_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p026_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p026_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p155_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p155_normal.jpeg"
+    },
+    {
+        "file_name": "p432_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p432_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p172_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p172_tuberculosis.png"
+    },
+    {
+        "file_name": "p125_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p125_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p378_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p378_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p047_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p047_normal.jpeg"
+    },
+    {
+        "file_name": "p488_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p488_normal.jpeg"
+    },
+    {
+        "file_name": "p391_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p391_normal.jpeg"
+    },
+    {
+        "file_name": "p057_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p057_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p042_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p042_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p443_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p443_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p456_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p456_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p387_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p387_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p392_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p392_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p309_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p309_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p154_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p154_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p346_covid.jpg",
+        "file_path": "raw data/X-ray Images/p346_covid.jpg"
+    },
+    {
+        "file_name": "p291_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p291_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p284_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p284_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p299_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p299_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p314_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p314_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p149_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p149_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p217_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p217_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p212_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p212_normal.jpeg"
+    },
+    {
+        "file_name": "p373_covid.jpg",
+        "file_path": "raw data/X-ray Images/p373_covid.jpg"
+    },
+    {
+        "file_name": "p138_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p138_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p370_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p370_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p273_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p273_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p207_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p207_normal.jpeg"
+    },
+    {
+        "file_name": "p122_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p122_tuberculosis.png"
+    },
+    {
+        "file_name": "p435_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p435_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p420_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p420_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p021_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p021_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p315_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p315_normal.jpeg"
+    },
+    {
+        "file_name": "p088_covid.jpg",
+        "file_path": "raw data/X-ray Images/p088_covid.jpg"
+    },
+    {
+        "file_name": "p153_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p153_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p382_covid.jpg",
+        "file_path": "raw data/X-ray Images/p382_covid.jpg"
+    },
+    {
+        "file_name": "p422_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p422_normal.jpeg"
+    },
+    {
+        "file_name": "p444_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p444_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p259_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p259_normal.jpeg"
+    },
+    {
+        "file_name": "p218_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p218_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p058_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p058_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p205_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p205_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p388_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p388_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p313_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p313_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p365_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p365_tuberculosis.png"
+    },
+    {
+        "file_name": "p261_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p261_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p428_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p428_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p410_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p410_normal.jpeg"
+    },
+    {
+        "file_name": "p022_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p022_normal.jpeg"
+    },
+    {
+        "file_name": "p052_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p052_normal.jpeg"
+    },
+    {
+        "file_name": "p312_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p312_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p307_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p307_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p427_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p427_normal.jpeg"
+    },
+    {
+        "file_name": "p458_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p458_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p059_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p059_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p457_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p457_normal.jpeg"
+    },
+    {
+        "file_name": "p204_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p204_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p376_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p376_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p363_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p363_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p139_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p139_tuberculosis.png"
+    },
+    {
+        "file_name": "p469_covid.jpg",
+        "file_path": "raw data/X-ray Images/p469_covid.jpg"
+    },
+    {
+        "file_name": "p202_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p202_normal.jpeg"
+    },
+    {
+        "file_name": "p429_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p429_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p260_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p260_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p484_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p484_normal.jpeg"
+    },
+    {
+        "file_name": "p268_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p268_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p035_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p035_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p020_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p020_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p434_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p434_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p135_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p135_normal.jpeg"
+    },
+    {
+        "file_name": "p354_covid.jpg",
+        "file_path": "raw data/X-ray Images/p354_covid.jpg"
+    },
+    {
+        "file_name": "p123_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p123_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p136_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p136_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p145_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p145_normal.jpeg"
+    },
+    {
+        "file_name": "p084_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p084_normal.jpeg"
+    },
+    {
+        "file_name": "p051_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p051_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p450_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p450_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p381_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p381_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p394_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p394_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p495_covid.jpg",
+        "file_path": "raw data/X-ray Images/p495_covid.jpg"
+    },
+    {
+        "file_name": "p297_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p297_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p282_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p282_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p196_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p196_normal.jpeg"
+    },
+    {
+        "file_name": "p009_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p009_normal.jpeg"
+    },
+    {
+        "file_name": "p203_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p203_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p347_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p347_normal.jpeg"
+    },
+    {
+        "file_name": "p148_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p148_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p337_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p337_normal.jpeg"
+    },
+    {
+        "file_name": "p132_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p132_tuberculosis.png"
+    },
+    {
+        "file_name": "p208_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p208_tuberculosis.png"
+    },
+    {
+        "file_name": "p298_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p298_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p169_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p169_tuberculosis.png"
+    },
+    {
+        "file_name": "p120_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p120_normal.jpeg"
+    },
+    {
+        "file_name": "p072_covid.jpg",
+        "file_path": "raw data/X-ray Images/p072_covid.jpg"
+    },
+    {
+        "file_name": "p371_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p371_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p124_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p124_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p379_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p379_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p433_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p433_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p029_covid.jpg",
+        "file_path": "raw data/X-ray Images/p029_covid.jpg"
+    },
+    {
+        "file_name": "p027_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p027_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p032_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p032_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p375_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p375_tuberculosis.png"
+    },
+    {
+        "file_name": "p451_covid.jpg",
+        "file_path": "raw data/X-ray Images/p451_covid.jpg"
+    },
+    {
+        "file_name": "p285_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p285_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p308_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p308_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p070_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p070_normal.jpeg"
+    },
+    {
+        "file_name": "p101_covid.jpg",
+        "file_path": "raw data/X-ray Images/p101_covid.jpg"
+    },
+    {
+        "file_name": "p386_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p386_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p442_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p442_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p043_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p043_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p056_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p056_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p459_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p459_normal.jpeg"
+    },
+    {
+        "file_name": "p252_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p252_normal.jpeg"
+    },
+    {
+        "file_name": "p222_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p222_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p118_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p118_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p350_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p350_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p345_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p345_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p477_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p477_normal.jpeg"
+    },
+    {
+        "file_name": "p494_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p494_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p481_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p481_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p393_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p393_normal.jpeg"
+    },
+    {
+        "file_name": "p364_covid.jpg",
+        "file_path": "raw data/X-ray Images/p364_covid.jpg"
+    },
+    {
+        "file_name": "p240_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p240_tuberculosis.png"
+    },
+    {
+        "file_name": "p246_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p246_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p183_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p183_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p013_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p013_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p407_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p407_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p173_covid.jpg",
+        "file_path": "raw data/X-ray Images/p173_covid.jpg"
+    },
+    {
+        "file_name": "p489_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p489_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p105_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p105_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p358_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p358_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p372_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p372_normal.jpeg"
+    },
+    {
+        "file_name": "p398_covid.jpg",
+        "file_path": "raw data/X-ray Images/p398_covid.jpg"
+    },
+    {
+        "file_name": "p062_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p062_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p476_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p476_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p445_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p445_normal.jpeg"
+    },
+    {
+        "file_name": "p329_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p329_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p174_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p174_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p039_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p039_tuberculosis.png"
+    },
+    {
+        "file_name": "p437_covid.jpg",
+        "file_path": "raw data/X-ray Images/p437_covid.jpg"
+    },
+    {
+        "file_name": "p461_covid.jpg",
+        "file_path": "raw data/X-ray Images/p461_covid.jpg"
+    },
+    {
+        "file_name": "p230_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p230_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p225_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p225_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p479_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p479_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p470_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p470_tuberculosis.png"
+    },
+    {
+        "file_name": "p077_covid.jpg",
+        "file_path": "raw data/X-ray Images/p077_covid.jpg"
+    },
+    {
+        "file_name": "p326_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p326_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p333_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p333_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p197_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p197_tuberculosis.png"
+    },
+    {
+        "file_name": "p275_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p275_normal.jpeg"
+    },
+    {
+        "file_name": "p184_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p184_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p191_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p191_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p210_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p210_tuberculosis.png"
+    },
+    {
+        "file_name": "p254_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p254_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p241_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p241_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p408_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p408_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p092_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p092_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p087_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p087_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p486_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p486_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p493_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p493_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p357_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p357_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p117_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p117_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p102_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p102_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p050_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p050_normal.jpeg"
+    },
+    {
+        "file_name": "p219_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p219_normal.jpeg"
+    },
+    {
+        "file_name": "p415_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p415_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p400_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p400_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p294_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p294_normal.jpeg"
+    },
+    {
+        "file_name": "p412_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p412_normal.jpeg"
+    },
+    {
+        "file_name": "p001_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p001_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p014_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p014_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p269_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p269_normal.jpeg"
+    },
+    {
+        "file_name": "p150_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p150_tuberculosis.png"
+    },
+    {
+        "file_name": "p166_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p166_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p069_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p069_tuberculosis.png"
+    },
+    {
+        "file_name": "p471_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p471_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p464_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p464_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p065_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p065_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p238_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p238_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p198_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p198_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p008_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p008_tuberculosis.png"
+    },
+    {
+        "file_name": "p235_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p235_tuberculosis.png"
+    },
+    {
+        "file_name": "p362_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p362_normal.jpeg"
+    },
+    {
+        "file_name": "p015_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p015_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p131_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p131_tuberculosis.png"
+    },
+    {
+        "file_name": "p401_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p401_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p071_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p071_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p064_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p064_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p239_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p239_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p431_covid.jpg",
+        "file_path": "raw data/X-ray Images/p431_covid.jpg"
+    },
+    {
+        "file_name": "p465_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p465_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p482_covid.jpg",
+        "file_path": "raw data/X-ray Images/p482_covid.jpg"
+    },
+    {
+        "file_name": "p175_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p175_tuberculosis.png"
+    },
+    {
+        "file_name": "p332_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p332_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p327_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p327_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p271_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p271_tuberculosis.png"
+    },
+    {
+        "file_name": "p283_covid.jpg",
+        "file_path": "raw data/X-ray Images/p283_covid.jpg"
+    },
+    {
+        "file_name": "p224_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p224_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p231_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p231_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p356_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p356_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p343_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p343_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p492_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p492_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p086_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p086_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p147_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p147_normal.jpeg"
+    },
+    {
+        "file_name": "p417_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p417_normal.jpeg"
+    },
+    {
+        "file_name": "p409_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p409_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p255_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p255_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p110_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p110_tuberculosis.png"
+    },
+    {
+        "file_name": "p467_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p467_normal.jpeg"
+    },
+    {
+        "file_name": "p359_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p359_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p402_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p402_normal.jpeg"
+    },
+    {
+        "file_name": "p089_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p089_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p413_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p413_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p406_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p406_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p007_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p007_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p012_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p012_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p265_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p265_tuberculosis.png"
+    },
+    {
+        "file_name": "p272_covid.jpg",
+        "file_path": "raw data/X-ray Images/p272_covid.jpg"
+    },
+    {
+        "file_name": "p044_covid.jpg",
+        "file_path": "raw data/X-ray Images/p044_covid.jpg"
+    },
+    {
+        "file_name": "p160_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p160_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p257_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p257_normal.jpeg"
+    },
+    {
+        "file_name": "p104_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p104_tuberculosis.png"
+    },
+    {
+        "file_name": "p093_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p093_normal.jpeg"
+    },
+    {
+        "file_name": "p063_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p063_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p076_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p076_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p137_covid.jpg",
+        "file_path": "raw data/X-ray Images/p137_covid.jpg"
+    },
+    {
+        "file_name": "p236_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p236_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p440_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p440_normal.jpeg"
+    },
+    {
+        "file_name": "p002_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p002_normal.jpeg"
+    },
+    {
+        "file_name": "p320_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p320_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p335_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p335_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p168_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p168_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p140_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p140_tuberculosis.png"
+    },
+    {
+        "file_name": "p182_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p182_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p247_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p247_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p079_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p079_tuberculosis.png"
+    },
+    {
+        "file_name": "p094_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p094_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p081_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p081_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p344_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p344_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p253_covid.jpg",
+        "file_path": "raw data/X-ray Images/p253_covid.jpg"
+    },
+    {
+        "file_name": "p389_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p389_normal.jpeg"
+    },
+    {
+        "file_name": "p302_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p302_tuberculosis.png"
+    },
+    {
+        "file_name": "p216_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p216_normal.jpeg"
+    },
+    {
+        "file_name": "p475_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p475_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p460_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p460_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p038_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p038_tuberculosis.png"
+    },
+    {
+        "file_name": "p374_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p374_normal.jpeg"
+    },
+    {
+        "file_name": "p061_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p061_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p074_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p074_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p229_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p229_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p266_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p266_normal.jpeg"
+    },
+    {
+        "file_name": "p304_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p304_normal.jpeg"
+    },
+    {
+        "file_name": "p177_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p177_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p162_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p162_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p188_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p188_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p237_covid.jpg",
+        "file_path": "raw data/X-ray Images/p237_covid.jpg"
+    },
+    {
+        "file_name": "p258_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p258_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p005_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p005_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p010_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p010_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p163_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p163_normal.jpeg"
+    },
+    {
+        "file_name": "p367_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p367_tuberculosis.png"
+    },
+    {
+        "file_name": "p248_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p248_normal.jpeg"
+    },
+    {
+        "file_name": "p113_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p113_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p353_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p353_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p096_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p096_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p083_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p083_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p497_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p497_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p250_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p250_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p245_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p245_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p018_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p018_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p419_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p419_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p195_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p195_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p322_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p322_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p221_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p221_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p468_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p468_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p395_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p395_normal.jpeg"
+    },
+    {
+        "file_name": "p323_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p323_tuberculosis.png"
+    },
+    {
+        "file_name": "p338_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p338_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p165_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p165_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p170_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p170_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p134_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p134_normal.jpeg"
+    },
+    {
+        "file_name": "p073_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p073_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p066_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p066_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p352_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p352_tuberculosis.png"
+    },
+    {
+        "file_name": "p472_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p472_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p380_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p380_normal.jpeg"
+    },
+    {
+        "file_name": "p499_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p499_normal.jpeg"
+    },
+    {
+        "file_name": "p114_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p114_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p349_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p349_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p500_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p500_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p498_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p498_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p078_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p078_normal.jpeg"
+    },
+    {
+        "file_name": "p017_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p017_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p403_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p403_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p416_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p416_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p106_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p106_normal.jpeg"
+    },
+    {
+        "file_name": "p099_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p099_normal.jpeg"
+    },
+    {
+        "file_name": "p187_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p187_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p426_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p426_normal.jpeg"
+    },
+    {
+        "file_name": "p490_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p490_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p485_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p485_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p091_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p091_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p109_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p109_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p341_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p341_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p274_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p274_tuberculosis.png"
+    },
+    {
+        "file_name": "p128_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p128_normal.jpeg"
+    },
+    {
+        "file_name": "p478_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p478_normal.jpeg"
+    },
+    {
+        "file_name": "p233_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p233_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p330_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p330_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p325_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p325_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p108_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p108_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p340_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p340_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p355_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p355_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p080_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p080_normal.jpeg"
+    },
+    {
+        "file_name": "p090_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p090_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p085_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p085_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p491_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p491_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p193_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p193_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p192_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p192_normal.jpeg"
+    },
+    {
+        "file_name": "p331_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p331_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p385_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p385_normal.jpeg"
+    },
+    {
+        "file_name": "p179_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p179_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p053_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p053_normal.jpeg"
+    },
+    {
+        "file_name": "p232_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p232_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p227_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p227_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p377_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p377_tuberculosis.png"
+    },
+    {
+        "file_name": "p411_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p411_normal.jpeg"
+    },
+    {
+        "file_name": "p296_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p296_tuberculosis.png"
+    },
+    {
+        "file_name": "p466_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p466_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p067_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p067_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p480_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p480_normal.jpeg"
+    },
+    {
+        "file_name": "p339_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p339_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p206_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p206_normal.jpeg"
+    },
+    {
+        "file_name": "p171_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p171_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p164_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p164_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p423_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p423_normal.jpeg"
+    },
+    {
+        "file_name": "p003_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p003_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p234_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p234_tuberculosis.png"
+    },
+    {
+        "file_name": "p098_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p098_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p103_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p103_normal.jpeg"
+    },
+    {
+        "file_name": "p130_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p130_tuberculosis.png"
+    },
+    {
+        "file_name": "p115_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p115_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p100_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p100_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p348_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p348_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p181_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p181_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p267_covid.jpg",
+        "file_path": "raw data/X-ray Images/p267_covid.jpg"
+    },
+    {
+        "file_name": "p004_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p004_normal.jpeg"
+    },
+    {
+        "file_name": "p418_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p418_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p244_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p244_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p251_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p251_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p019_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p019_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p496_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p496_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p483_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p483_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p342_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p342_tuberculosis.png"
+    },
+    {
+        "file_name": "p141_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p141_tuberculosis.png"
+    },
+    {
+        "file_name": "p116_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p116_normal.jpeg"
+    },
+    {
+        "file_name": "p446_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p446_normal.jpeg"
+    },
+    {
+        "file_name": "p301_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p301_normal.jpeg"
+    },
+    {
+        "file_name": "p220_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p220_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p176_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p176_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p075_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p075_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p060_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p060_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p201_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p201_tuberculosis.png"
+    },
+    {
+        "file_name": "p474_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p474_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p404_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p404_normal.jpeg"
+    },
+    {
+        "file_name": "p300_covid.jpg",
+        "file_path": "raw data/X-ray Images/p300_covid.jpg"
+    },
+    {
+        "file_name": "p107_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p107_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p112_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p112_pneumonia.jpeg"
+    },
+    {
+        "file_name": "p095_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p095_normal.jpeg"
+    },
+    {
+        "file_name": "p186_tuberculosis.png",
+        "file_path": "raw data/X-ray Images/p186_tuberculosis.png"
+    },
+    {
+        "file_name": "p068_normal.jpeg",
+        "file_path": "raw data/X-ray Images/p068_normal.jpeg"
+    },
+    {
+        "file_name": "p405_pneumonia.jpeg",
+        "file_path": "raw data/X-ray Images/p405_pneumonia.jpeg"
+    }
+]

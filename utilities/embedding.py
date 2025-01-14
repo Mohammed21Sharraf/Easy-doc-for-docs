@@ -1,5 +1,5 @@
-from sklearn.preprocessing import StandardScaler
 import numpy as np
+from sklearn.preprocessing import StandardScaler
 
 def embed_numerical_features(df):  
     scalar = StandardScaler()
@@ -16,15 +16,18 @@ def embed_categorical_features(text, tokenizer, model):
 
 def combine_embeddings(df, numeric_cols, tokenizer, model):
     combined_embeddings = []
+    metadata = []
+    
     for index, row in df.iterrows():
         numeric_embedding = row[numeric_cols].values
         text_embedding = embed_categorical_features(row['Diagnosis'], tokenizer, model)
-        # print(numeric_embedding)
-        # print(text_embedding)
+        patient_id = row['patient_id']
+        
         combined_embedding = np.concatenate((numeric_embedding, text_embedding.flatten()))
         combined_embeddings.append(combined_embedding)
+        metadata.append({'patient_id': patient_id})
 
-    return np.array(combined_embeddings)
+    return np.array(combined_embeddings), metadata
 
     
 
