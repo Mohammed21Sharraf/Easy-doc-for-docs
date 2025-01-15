@@ -6,9 +6,9 @@ import pandas as pd
 from transformers import CLIPProcessor, CLIPModel
 from transformers import BertTokenizer, BertModel
 from utilities.embed_xray_images import embed_images
-from utilities.setup_qdrant import setup_qdrant, create_collection, upload_collection
 from utilities.embedding import embed_numerical_features, combine_embeddings
 from utilities.preprocess import preprocess_blood_test_report, add_patient_id_col, save_csv
+from utilities.setup_qdrant import setup_qdrant, create_collection, upload_collection, upload_points
 
 if __name__ == "__main__":
     folder_path = 'embeddings'
@@ -54,11 +54,21 @@ if __name__ == "__main__":
     with open("metadata/blood_test_metadata.json", "r") as f:
         blood_test_metadata = json.load(f)
 
-    
+    xray_embeddings = np.load('embeddings/xray_embeddings.npy', allow_pickle=True)
+    with open('metadata/xray_metadata.json', 'r') as f:
+        xray_metadata = json.load(f)
 
     client = setup_qdrant()
+
     create_collection(client, 'blood_tests', len(blood_test_embeddings[0]))
-    upload_collection(client, 'blood_tests', blood_test_embeddings, blood_test_metadata)
+    create_collection(client, 'xray_images', len(xray_embeddings[0]))
+
+    if client.count(collection_name='blood_tests').count == 0:
+        upload_collection(client, 'blood_tests', blood_test_embeddings, blood_test_metadata)
+
+    if client.count(collection_name='xray_images').count == 0:
+        upload_points(client, 'xray_images', xray_embeddings, xray_metadata)
+    
 
     
 

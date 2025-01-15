@@ -18,3 +18,18 @@ def upload_collection(client, collection_name, embeddings, metadata):
         payload=metadata,
         ids=None
     )
+
+def upload_points(client, collection_name, embeddings, metadata):
+    print("uploading")
+    print(len(embeddings[0]))
+    client.upload_points(
+        collection_name=collection_name,
+        points=[
+            models.PointStruct(
+                id=int(meta['file_name'].split('_')[0][1:]),
+                vector=embeddings[idx],
+                payload=meta
+            )
+            for idx, meta in enumerate(metadata)
+        ]
+    )
